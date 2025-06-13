@@ -1,0 +1,275 @@
+? Auditorlik faoliyatining rivojlanishi qaysi yillarga to’g’ri keladi?
++  1929-1933;
+-  2001-2018;
+-  2015-2019; 
+-  2019-2021
+
+? Auditorlik atamasining paydo bolishi nechanchi asrlarga to’g’ri keladi.
++  18-asrlarga;
+-  16-asrlarga;
+-  14-asrlarga;
+-  20-asrlarga .
+
+? Kontragentlar - bu…..
++  Xaridor va buyurtmachilar, mol yetkazib beruvchilar va pudratchilar
+-  Davlatning maqsadli fondlari
+-  Xaridor va buyurtmachilar
+-  Mol yetkazib beruvchilar va pudratchilar
+
+?  Hisobot yili bu
++  1 yanvardan 31 dekabrgacha bo’lgan davr 
+-  Ishlab chiqarish davri. 
+-  Sotish davri 
+-  Soliq hisobotini topshirish davri 
+
+? Audit nima?
++  Moliya hisobotlarining to'g'riligini tekshirish jarayoni
+-  Tashqi va ichki muammolarni tahlil qilish jarayoni
+-  Faoliyatni nazorat qilish jarayoni
+-  Korxonaning qarorlar qabul qilish jarayoni 
+
+? Auditning asosiy maqsadi nima?
++  Moliya hisobotlarining haqiqatga mosligini tekshirish
+-  Korxona resurslarini boshqarish
+-  Moliya hisobotlarini ishlab chiqish
+-  Korxona o'sishini nazorat qilish  
+
+? Auditning turli shakllari qaysilar?
++  Ichki va tashqi audit
+-  Davlat va xususiy audit
+-  Kichik va katta audit
+-  Tezkor va standart audit
+
+? Auditorlik faoliyatining huquqiy asoslari qanday huquqiy hujjatlar bilan belgilanadi?
++  Auditorlik faoliyatini tartibga soluvchi qonunlar va qarorlar
+-  O‘zbekiston Respublikasi Prezidentining farmonlari
+-  Auditorlik tashkilotlarining ichki me'yoriy hujjatlari
+-  Har bir auditor tomonidan yozilgan shaxsiy kelishuvlar Auditorlik xizmatlarini ko‘rsatish bo‘yicha shartnomalar
+
+
+? Auditorlik faoliyatini amalga oshirishda, qanday shartnomalar tuziladi?
++  Auditorlik xizmatlarini ko‘rsatish bo‘yicha shartnomalar
+-  Auditorlik hisobotlari uchun shartnomalar
+-  Faqat mehnat shartnomalari
+-  Faoliyatni tasdiqlovchi davlat hujjatlari 
+
+?  Auditorlar faoliyatini tartibga soluvchi asosiy qonunlardan biri?
++  O‘zbekiston Respublikasi Auditorlik faoliyati to‘g‘risidagi qonuni
+-  Mehnat kodeksi
+-  Qonun hujjatlari to‘g‘risidagi kodeks
+-  Shaxsiy biznes qonuni   
+
+? Auditorlik faoliyatini olib borishda quyidagi hujjatlarning qaysi biri auditor uchun majburiy hisoblanadi?
++  O‘zbekiston Respublikasi Auditorlar palatasi tomonidan sertifikat olish
+-  Audit hisobotini tayyorlash
+-  Auditorlik firmasining ichki siyosati 
+-  Faqat mehnat shartnomasi
+
+? Auditorning mustaqilligi deganda nimani tushunish mumkin?
++  Auditorning o‘zining mustaqil xulosa qilish va qarorlar qabul qilish huquqi
+-  Auditorning bir nechta tashkilotlarda ishlashi
+-  Auditorning xususiy faoliyatni olib borish huquqi
+-  Auditorning faqat davlat xizmatida ishlashi                        
+
+? Auditorlik faoliyatini boshlash uchun auditor qanday imtiyozga ega bo‘lishi kerak?
++  Mutaxassislik bo‘yicha malaka sertifikati
+- Yalpi ta’lim darajasi
+-  Yoshi 30 ga to‘lishi
+-  Faqat davlatning tasdiqlash hujjati                    
+
+? Auditorlik faoliyati to‘g‘risidagi qonunga ko‘ra, auditorning faoliyatini to‘xtatish uchun asosiy sabab nima bo‘lishi mumkin?
++  Auditorning malaka sertifikati muddati tugashi
+-  Auditorning faoliyatini tasdiqlovchi tashkilot tomonidan taqiq qo‘yish
+-  Auditorlik faoliyatida xato qilish
+-  Auditorlik tashkilotining yopilishi                        
+
+? Auditorlik tashkilotining majburiyatlaridan biri nima?
++ Аuditorlik hisobotlari va tahlilini maxfiy saqlash
+- Аuditorlik hisobotlarini faqat mijozning xohishiga ko‘ra tuzish
+- Аuditorlik xizmatlarini faqat raqamli formatda taqdim etish 
+- Mijozlar bilan barcha biznes kelishuvlarini xalqaro miqyosda tuzish
+
+? Auditorlik tashkilotining mustaqilligi qanday ta'minlanadi?
++ Аuditorlik tashkiloti o‘z ishini bajarishda biron bir tomonlama bosimdan saqlanishi lozim
+- Аuditorlik tashkiloti har doim audit jarayonida mijozning fikriga tayyor bo‘lishi kerak
+- Аuditorlik tashkiloti faqat davlat tashkilotlariga xizmat ko‘rsatishi kerak
+- Auditorlik tashkiloti mijozning xohishiga ko‘ra auditni amalga oshirishi kerak
+
+? Auditorlik tashkilotining majburiyatlaridan biri nima?
++ Аuditorlik tashkilotlari audit jarayonida barcha auditorlik standartlariga rioya qilishi kerak
+- Аuditorlik tashkilotlari faqat yirik kompaniyalar bilan ishlashi kerak        
+
+- Аuditorlik tashkilotlari faqat ijtimoiy tarmoq orqali hisobot berishlari mumkin
+- Auditorlik tashkilotlari barcha hujjatlarni faqat ingliz tilida tayyorlashi kerak
+? Auditorlik faoliyatining maqsadi nima?   
++ Tashkilotning moliyaviy holatini baholash
+- Tashkilotning soliq to'lovlarini oshirish
+- Tashkilotning ishlab chiqarish samaradorligini oshirish
+- Tashkilotning xodimlarini boshqarish
+? Auditorlik faoliyatini amalga oshiruvchi asosiy tashkilot qanday nomlanadi?
++ Auditorlik tashkiloti                     
+- Audit kompaniyasi
+- Auditorlik kengashi
+- Audit komissiyasi                      
+? Auditorlik faoliyatining asosiy printsipi qanday?
++ Mustaqillik va ob'ektivlik, halollik
+- Xodimlarning yuksalishi 
+- Tashkilotning xarajatlarini kamaytirish
+- Raqobatbardoshlikni oshirish
+? Auditorlik tashkilotlari qanday vazifalarni bajaradi?
++ Tashkilotning moliyaviy holatini tekshirish
+- Tashkilotni yangilash va modernizatsiya qilish
+- Faoliyatni reklama qilish
+- Xodimlarni ijtimoiy himoya qilish
+? Auditorlik faoliyatini tartibga soluvchi asosiy normativ hujjat nima?
++ Auditorlik faoliyati to’g’risidagi qonun
+- Soliq kodeksi
+- Mahalliy qonunlar
+- Yuridik shartnomalar                
+? Auditorning xizmati qanday hujjat bilan yakunlanadi?      
++ Auditorlik xulosasi bilan
+- Tashkilotning yillik hisobotlari bilan
+- Soliq to'lovlari hisobotlari bilan
+- Tashkilotning moliyaviy rejalari bilan
+? Auditorlar faoliyatida qanday turdagi tekshiruvlar amalga oshiriladi?  
++ Moliya va hisob-kitob tekshiruvlari
+- Tijorat tekshiruvlari
+- Texnik tekshiruvlar
+- Ijtimoiy so'rovlar                             
+? Tashqi auditor firibgarlikni oldini olishda qanday yordam beradi?
++ Auditor firibgarlikni aniqlash uchun ichki nazorat tizimini tekshiradi va xavf tahlilini o'tkazadi
+- Auditor faqat hisobotni tasdiqlashga mas'ul
+- Auditor faqat hujjatlarni taqqoslash bilan cheklanadi
+- Auditor faqat kompaniya rahbariyati bilan ishlaydi
+? Auditorlik tashkilotlari qanday asosiy xizmatlarni ko'rsatadi?
++ Moliya va buxgalteriya hisobi auditini o‘tkazish
+- Ishlab chiqarish jarayonlarini optimallashtirish
+- Mijozlar bilan savdo qilish
+- Ijtimoiy so'rovlarni o'tkazish
+? «Auditorlik faoliyati to‘g‘risida»gi qonun necha moddadan iborat?
++ 55 moddadan
+- 45 moddadan
+- 50 moddadan
+- 30 moddadan
+
+? Auditorlik tashkilotlari qanday xizmatlarni ko'rsatuvchi kompaniyalar bilan hamkorlik qiladi?
++ Moliya va hisob-kitob xizmatlari ko'rsatuvchi kompaniyalar
+- Reklama agentliklari
+- Ishlab chiqarish sexlari                       
+- Soliq konsultatsiyasi
+? O’zbekiston Respublikasida «Auditorlik faoliyati to‘g‘risida»gi qonun birinchi marta nechanchi yilda qabul qilingan?
++ 1992 yilda
+- 1991 yilda
+- 1993 yilda
+- 1994 yilda
+
+? Firibgarlik nima?
++ Oldindan bilib qilinadigan harakat bo’lib, moliyaviy hisobotni noto’g’ri tuzilishiga olib keladi
+ - Rahbariyatning rostgo’yligi va haqqoniyligi
+- Auditorlik fаoliyati bo’lib, korxonalarga konsalting xizmati ko’rsatish
+- Moliyaviy hisobot bo‘yichа аuditorlik xulosа tаyyorlаnishiga yordam berish 
+
+? Auditorlik tashkilotining xalqaro sertifikatlari auditorlarga nima beradi?
++ Auditorlik faoliyatida yanada yuqori darajadagi malakani ta'minlaydi
+- Qonuniy huquqni tasdiqlaydi
+- Auditorlik xizmatlarini bepul taqdim etish imkoniyatini yaratadi
+- Faoliyatni kengaytirish uchun reklama imkoniyatlarini oshiradi
+
+? Auditorning kasbiy etikasiga qanday asosiy printsiplar kiradi?
++ Mustaqillik, ob'ektivlik, maxfiylik, kasbiy mas'uliyat
+- Samaradorlik, raqobatbardoshlik, innovatsion yondashuv
+- Axloqiyligi, ijtimoiy mas'uliyat, kasbiy bilim, chet tilini bilishi
+- Reklama, tijorat, ijtimoiy so'rovlar
+? Auditorning kasbiy etikasi qaysi asosiy hujjat bilan tartibga solinadi?
++ Auditorlik kodeksi yoki etika kodeksi
+- Soliq kodeksi
+- Tashkilotning ichki siyosati       
+- Moliya qonunlari
+? Auditorning yuridik javobgarligi qanday holatlarda yuzaga keladi?
++ Auditor o‘z ishini to‘liq bajarmasa
+- Auditor kasbiy etikani buzgan holatlarda va qonunlarga zid harakat qilganda
+- Auditor mijozdan kam haq olganda
+- Auditor faqat o‘zining shaxsiy manfaatlarini ko‘zlaganda
+? Auditor ishlarining sifatini nazorat qilishning asosiy maqsadi nima?
++ Auditorlik xizmatlarining sifatini va samarasini ta'minlash
+- Auditorlarning o'zaro raqobatini amalga oshirish
+- Auditorlik kompaniyasining moliyaviy holatini baholash
+- Auditorlarni ijtimoiy himoya qilish
+? Auditorlik ishlarining sifatini nazorat qilishda kim asosiy rol o'ynaydi?
++ Auditorlik kompaniyasining rahbariyati
+- Tashkilotning yuridik bo'limi                              
+- Tashkilotning marketing bo‘limi
+- Auditorlik firmasi xodimlari                   
+? Auditorlik tekshiruvini rejalashtirishning asosiy maqsadi nima?
++ Auditorlik tekshiruvining samaradorligini va effektivligini oshirish
+- Mijozning moliyaviy hisobotlarini tezda tayyorlash
+- Auditorlarni ishga joylashtirish
+- Mijoz bilan marketing strategiyalarini ishlab chiqish
+? Auditorlik tekshiruvini rejalashtirishda qaysi hujjatlar muhim hisoblanadi?
++ Mijozning yillik hisob-kitoblari va buxgalteriya hujjatlari
+- Auditorlik xulosalari va hisobotlar
+- Mijozlar bilan shartnomalar
+- Marketing strategiyalari                           
+? Auditning umumiy rejasining asosiy maqsadi nima?
++ Audit tekshiruvining samaradorligini ta'minlash va auditning har bir bosqichini aniqlash
+- Auditorlik kompaniyasining moliyaviy holatini yaxshilash   
+- Auditorlarning shaxsiy manfaatlarini ko‘zlash
+- Mijozning moliyaviy hisobotlarini tezda tayyorlash   
+
+? Auditorlik tekshiruvida "muhimlik" tushunchasi nima anglatadi?
++ Hisob-kitoblar va moliyaviy hisobotlardagi xatoliklarning auditorlar tomonidan qabul qilinishi mumkin bo‘lgan darajasini
+- Auditorning xatolikni aniqlashdagi darajasini
+- Mijozning moliyaviy holatini tahlil qilish
+- Auditorning auditorlik jarayonidagi vaqtni tejash     
+
+? Auditorlik tekshiruvida "risk" tushunchasi nima anglatadi?
++ Auditorning aniqlay olmagan xatoliklarning yoki noto‘g‘ri ma'lumotlarning moliyaviy hisobotlarga ta'siri
+- Auditorning xatoliklarni tuzatish uchun sarflanadigan vaqti
+- Auditorlik tekshiruvini boshqarish uchun kerakli resurslar
+- Auditorning mijozning hisobotlarini to‘g‘ri tahlil qilishga bo‘lgan qobiliyati
+? Auditorlik riskini kamaytirish maqsadida qanday choralar ko‘riladi?
++ Auditorning malakasi va tajribasini oshirish, ichki nazorat tizimlarini kuchaytirish
+- Auditorlik kompaniyasining soliq maslahatlarini olish
+- Auditorlarning o‘rni va lavozimlarini kamaytirish
+- Mijozning ijtimoiy faoliyatini tekshirish 
+?  Firibgarlikning eng keng tarqalgan tashqi ko'rinishlaridan biri qanday? 
++ Moliyaviy hisobotlarni noto'g'ri taqdim etish
+- Auditdan oldin barcha hujjatlarni yo'qotish
+- Xodimlarning ish haqi to'lanmasligi
+- Kompaniyaning o'zgarishi
+? Ichki nazorat tizimini qaysi auditning xalqaro standartiga asosan  auditorlar tekshiradi? 
++ AXS-265
+- AXS-300
+- AXS-500
+- AXS-620        
+? Auditor firibgarlikni aniqlashda qanday ro'l o'ynaydi?
++ Auditor firibgarlik xavfini aniqlash va mijozni ogohlantirish mas'uliyatiga ega
+- Auditor faqat moliyaviy xatoliklarni aniqlashga mas'ul
+- Auditor firibgarlikni oldini olish uchun mas'ul
+- Auditor faqat hujjatlarni tekshiradi       
+
+?  Ichki nazorat tizimi qanday firibgarliklarni oldini olishga yordam beradi?
++ Ichki nazorat tizimi firibgarliklarni aniqlash va ularni oldini olish uchun zarur bo'lgan barcha choralarni ko'radi
+- Ichki nazorat tizimi faqat xodimlarni kuzatishni ta'minlaydi
+- Ichki nazorat tizimi faqat hisobotlar tayyorlash bilan shug'ullanadi
+- Ichki nazorat tizimi faqat moliyaviy jarayonlarni tekshiradi
+?  Firibgarlik xavfini kamaytirish uchun qanday choralar tavsiya etiladi?
++ Har bir operatsiya uchun ikkita xodimni tayinlash
+- Xodimlarning barcha ish faoliyatlarini maxfiy qilish
+- Faoliyatni faqat moliyaviy hisobotlarga asoslash
+- Tashqi auditni olib borish                                      
+?  Firibgarlikni oldini olishda rahbariyatning qanday roli mavjud?
++ Rahbariyat firibgarlikni oldini olish uchun samarali ichki nazorat tizimlarini yaratadi va unga amal qiladi
+- Rahbariyat faqat hujjatlarni tekshiradi
+- Rahbariyat faqat auditni tashkil qiladi
+- Rahbariyat moliyaviy hisobotlarni tekshiradi            
+?  Firibgarlik aniqlanganda qanday huquqiy choralar qo'llanilishi mumkin?
++ Firibgarlikni aniqlash faqat kompaniya ichida hal qilinadi
+- Firibgarlik uchun faqat moliyaviy jarimalar joriy etiladi
+- Firibgarlik holatiga qarab jinoiy javobgarlik yoki fuqarolik da'volari qo'llanilishi mumkin
+- Firibgarlikni aniqlashda huquqiy choralar qo'llanilmaydi
+?  Ichki nazorat tizimi qanday vazifani bajaradi?
++ Firibgarliklarni oldini olish va aniqlashga yordam beradi
+- Faqatgina moliyaviy hisobotlarni tayyorlash
+- Xodimlarning ish haqi to'lashni nazorat qilish
+- Kompaniyaning marketing strategiyasini belgilaydi            

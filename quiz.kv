@@ -1,0 +1,114 @@
+<MenuScreen>:
+    BoxLayout:
+        orientation: 'vertical'
+        padding: 20
+        spacing: 10
+        canvas.before:
+            Color:
+                rgba: 1, 1, 1, 1  # white
+            Rectangle:
+                pos: self.pos
+                size: self.size
+
+        Label:
+            text: "Fan tanlang:"
+            size_hint_y: None
+            height: 50
+            font_size: 20
+            color: 0, 0, 0, 1
+
+        ScrollView:
+            BoxLayout:
+                id: subjects_box
+                orientation: 'vertical'
+                size_hint_y: None
+                height: self.minimum_height
+
+
+<QuizScreen>:
+    BoxLayout:
+        orientation: 'vertical'
+        padding: 15
+        spacing: 10
+        canvas.before:
+            Color:
+                rgba: 1, 1, 1, 1
+            Rectangle:
+                pos: self.pos
+                size: self.size
+
+        BoxLayout:
+            size_hint_y: None
+            height: 30
+            spacing: 10
+
+            Label:
+                id: progress_label
+                text: "❓"
+                font_size: 14
+                color: 0, 0, 0, 1
+
+            Label:
+                id: timer_label
+                text: "🕒"
+                font_size: 14
+                color: 0, 0, 0, 1
+
+        ScrollView:
+            Label:
+                id: question_label
+                text: "Savol matni"
+                size_hint_y: None
+                height: self.texture_size[1]
+                text_size: self.width - 40, None
+                halign: "left"
+                valign: "top"
+                font_size: 18
+                color: 0, 0, 0, 1
+
+        ScrollView:
+            BoxLayout:
+                id: quiz_box
+                orientation: 'vertical'
+                spacing: 5
+                size_hint_y: None
+                height: self.minimum_height
+
+        Button:
+            id: next_button
+            text: "⏭ Keyingi savol"
+            size_hint_y: None
+            height: 50
+            disabled: True
+            on_release: root.next_question()
+
+
+<ResultsScreen>:
+    BoxLayout:
+        orientation: 'vertical'
+        padding: 20
+        spacing: 10
+        canvas.before:
+            Color:
+                rgba: 1, 1, 1, 1
+            Rectangle:
+                pos: self.pos
+                size: self.size
+
+        ScrollView:
+            Label:
+                id: result_label
+                text: "Natijalar"
+                halign: "left"
+                valign: "top"
+                text_size: self.width - 40, None
+                size_hint_y: None
+                height: self.texture_size[1]
+                font_size: 16
+                color: 0, 0, 0, 1
+
+        Button:
+            text: "🔁 Xatoliklarni yana ishlash"
+            size_hint_y: None
+            height: 50
+            on_release: root.retry_incorrect()

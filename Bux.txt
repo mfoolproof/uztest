@@ -1,0 +1,298 @@
+? Buxgalteriya hisobi ob’yektlariga nimalar kiradi
++Xo’jalik mablag’lari, mablag’larning tashkil topish manbalari, xo’jalik jarayonlari, moliyaviy natijalar
+-Mablag’lar
+-Moliyaviy natijalar
+-Xo’jalik jarayonlari
+
+? Buxgalteriya hisobining sub’ektlariga nimalar kiradi
++Davlat hokimiyati va boshqaruv organlari, O’zbekiston Respublikasida ro’yxatdan o’tgan yuridik shaxslar va ularning filiallari, vakolatonalari
+-CHet el korxonalari
+-Jismoniy shaxslar
+-Yakka tadbirkorlar
+
+? O’zbekiston Respublikasi “Buxgalteriya hisobi to’g’risida”gi qonuniga muvofiq qaysi davr moliyaviy hisobot davri bo’lib hisoblanadi
++1 yanvar – 31 dekabr
+-1 yanvar – 1 dekabr
+-1 yanvar – 31 yanvar
+-1 yanvar – 10 yanvar
+
+? "Buxgalteriya hisobi to’g’risidagi" Qonun qachon qabul qilingan
++1996 yil 30 avgust
+-1999 yil 5 fevral
+-2000 yil 10 sentyabr
+-1998 yil 5 sentyabr
+
+? Balans valyutasi deb nimaga aytiladi
++Balans jami summasi
+-Balans aktivi birinchi bo’limi jami
+-Balans aktivi ikkinchi bo’limi jami
+-Balans passivi ikkinchi bo’limi jami
+
+? Aktiv so’zining ma’nosi
++Lotincha "Faol" degan ma’noni anglatadi
+-Lotincha "xolis turmoq" degan ma’noni anglatadi
+-Lotincha "tarozining ikki pallasi" degan ma’noni anglatadi
+-Nemischa "kitob tutmoq" degan ma’noni anglatadi
+
+? Buxgalteriya balansida sof foyda qo’yidagilardan qaysi birida aks ettiriladi
++Passiv qismining 1-chi bo’limda
+-Aktiv qismining 1-chi bo’limda
+-Aktiv qismining 2-chi bo’limda
+-Passiv qismining 2-chi bo’limda
+
+? Quyidagilardan qaysi biri aylanma mablag’larga kiradi
++Xom-ashyo va materiallar
+-Bino va inshootlar
+-Transport vositalari
+-Mashina va uskunalar
+
+? O’z mablag’lari manbasiga nima kiradi
++Ustav kapitali
+-Debitor  qarz
+-Tayyor mahsulot
+-Bankning uzoq muddatli Krediti
+
+? Kassadagi pul mablag’larining bankka qaytarilishi balansdagi qaysi o’zgarishga to’g’ri keladi
++A+ A-
+-A+P+
+-P+P-
+-A-P-
+
+? Kontr-aktiv schyotlarda qoldiq quyidagicha aniqlanadi
++Bosh qoldiq + Kredit  oborot –  Debet oborot
+-Bosh qoldiq + Debet  oborot – Kredit  oborot
+-Debet oborot – Kredit oborot
+-Debet oborot + Kredit oborot
+
+? Qaysi schyotlar hisobot davri oxirida yopiladi
++Tranzit schyotlar
+-Aktiv schyotlar
+-Passiv schyotlar
+-Doimiy schyotlar
+
+? Buxgalteriya hisobining schyotlar rejasi qaysi BHMSda yoritib berilgan
++21-sonli
+-22-sonli
+-01-sonli
+-18-sonli
+
+? Aktiv schyotlarni ko’rsating
++0100-5900
+-6000-8900
+-9000-9900
+-001-014
+
+? Passiv schyotlarni ko’rsating
++6000-8900
+-0100-5900
+-9000-9900
+-001-014
+
+? Ikki yoqlama yozuvning asoschisi kim bo’lgan
++Luka Pacholi
+-Gyugli SHerr
+-Benedikt Kotruli
+-Sovet iqtisodchilari
+
+? Quyidagilardan qaysi biri mahsulot tannarxiga kiritiladi
++Ishlab chiqarish bilan bog’liq moddiy xarajatlari
+-Sotish xarajatlari
+-Ma’muriy xarajatlar
+-Ma’muriy xarajatlar
+
+? Sotish jarayoniga quyidagilardan qaysi biri kiritiladi
++Tayyor mahsulotning sotilishi
+-Ishlab chiqarishga materiallarning sarflanishi
+-Materiallarning sotib olinishi
+-Ishlab chiqarishdan tayyor mahsulotning omborga qabul qilinishi
+
+? Inventarizatsiya – bu
++Korxona mablag’larni qayta ro’yxatdan o’tkazish
+-Mahsulot tannarxini aniqlash
+-Mahsulot bahosini aniqlash
+-Foydani aniqlash
+
+? O’tkazilish davriga qarab inventarizatsiya turlari
++Rejali va to’satdan
+-oddiy va murakkab
+-Tanlab va yoppasiga
+-Pul va natura o’lchov birligida
+
+? Hisob registrlarida xatolarni to’g’rilash usullari
++“Korrektura”, “Qizil qalam”, “Qo’shimcha yozuv”
+- “O’chirib yozish”, “Jurnal order”
+- “Qayta yozish”, “Qizil qalam”
+- “Korrektura”,  “Qo’shimcha yozuv”
+
+? Moliyaviy hisobot turlari
++Balans, moliyaviy natijalar to’g’risidagi, xususiy kapitallar to’g’risidagi, pul oqimlari to’g’risidagi hisobot
+-Moliyaviy natija to’g’risidagi, pul oqimlari to’g’risidagi hisobot
+-Kassirning hisoboti, hisobdor shaxsning hisoboti
+-Yillik  hisobot, choraklik hisobot
+
+? Hisob siyosati nechanchi sonli BHMSda keltirilgan
++1-sonli BHMS
+-2-sonli BHMS
+-3-sonli BHMS
+-4-sonli BHMS
+
+? Kassadan ish haqi berilganda qanday buxgalteriya provodkasi beriladi
++Dt 6710 Kt 5010
+-Dt 5010 Kt 4730
+-Dt 6310 Kt 4010
+-Dt 4220 Kt 5010
+
+? Korxona kassasidan xizmat safari uchun naqd pul berilganda qanday buxgalteriya provodkasi beriladi
++Dt 4220 Kt 5010
+-Dt 5010 Kt 4730
+-Dt 6310 Kt 4010
+-Dt 6710 Kt 5010
+
+? Kassa tekshirilganda kamomad aniqlandi, buxgalteriya provodkasini bering
++Dt 5910 Kt 5010
+-Dt 5010 Kt 4730
+-Dt 5010 Kt 6810
+-Dt 5110 Kt 6810
+
+? Bankdagi hisob-kitob schyotidan mol yetkazib beruvchilarga pul o’tkazib berilganda qanday buxgalteriya provodkasi beriladi
+++Dt 6010 Kt 5110
+-Dt 5110 Kt 6010
+-Dt 6010 Kt 5010
+-Dt 7810 Kt 5110
+
+? Bankdagi hisob-kitob schyotidan byudjetga soliq to’lovlari bo’yicha qarz o’tkazib berilganda qanday buxgalteriya provodkasi beriladi
++ Dt 6410 Kt 5110
+-Dt 5110 Kt 6410
+-Dt 7810 Kt 5110
+-Dt 6010 Kt 5110
+? Bankdagi hisob-kitob schyotiga xaridor va buyurtmachilardan sotilgan tayyor mahsulot uchun pul kelib tushganda qanday buxgalteriya provodkasi beriladi
++Dt 5110 Kt 4010
+-Dt 5110 Kt 6010
+-Dt 7810 Kt 5110
+-Dt 5110 Kt 6310
+
+? Xaridor va buyurtmachilardan sotilgan tayyor mahsulot uchun valyuta schyotiga pul kelib tushdi
++Dt 5210 Kt 5110
+-Dt 5110 Kt 4010
+-Dt 5010 Kt 5110
+-Dt 6710 Kt 5110
+
+ ? Kassadagi valyuta mablag’lari valyuta schyotiga topshirilganda qanday buxgalteriya yozuvi amalga oshiriladi
++Dt 5210 Kt 5020
+-Dt 5210 Kt 5110
+-Dt 5210 Kt 5010
+-Dt 5010 Kt 5110
+
+? Hisobdor shaxs tomonidan ishlatilmagan hisobdor summalari kassaga qaytarilganda qanday buxgalteriya provodkasi beriladi
++Dt 5020 Kt 4220
+-Dt 5110 Kt 5020
+-Dt 5210 Kt 5110
+-Dt 2010 Kt 5210
+
+? Asosiy vositalar bepul olinganda qanday buxgalteriya provodkasi beriladi
++Dt 0110-0190   Kt 8530
+-Dt 0160  Kt 6010
+-Dt 0160   Kt 0820
+-Dt 0160     Kt 8520
+
+? Bino va inshootlar foydalanishga topshirilganda qanday buxgalteriya provodkasi beriladi
++Dt 0120   Kt 0820
+-Dt 0160  Kt 0820
+- Dt 0110-0190   Kt 6010
+-Dt 0160     Kt 8520
+
+? Xaridor va buyurtmachilarga sotilgan mahsulotlarga chegirma berilganda qanday buxgalteriya provodkasi beriladi
++Dt 9050 Kt 4010
+-Dt 9050 Kt 9010
+-Dt 9050 Kt 9110
+-Dt 4010 Kt 9010
+
+? Tayyor mahsulot tannarxi hisobdan chiqarilganda qanday buxgalteriya provodkasi beriladi
++Dt 9110 Kt 2810
+-Dt 9110 Kt 2010
+-Dt 9110 Kt 2310
+-Dt 9110 Kt 2510
+
+? Ustav kapitali shakllantirilganda qanday buxgalteriya provodkasi beriladi
++Dt 8310 Kt 4610
+-Dt 8310 Kt 4410
+-Dt 8310 Kt 4010
+-Dt 8310 Kt 4710
+
+? Ustav kapitaliga ulush sifatida nomoddiy aktivlar kelib tushdi
++Dt 0400 Kt 4610
+-Dt 4610 Kt 0830
+-Dt 4610 Kt 8920
+-Dt 4610 Kt 4210
+
+? Maqsadli tushumlar balansning qaysi tomonida aks ettiriladi 
++Passivda
+-Aktivda
+-Aktiv va passivda
+-Aks ettirilmaydi
+
+? Sof foyda taqsimlanmagan foydaga o’tkazilganda qanday buxgalteriya provodkasi beriladi
++Dt 9910 Kt 8710
+-Dt 8710 Kt 9810
+-Dt 8310 Kt 9810 
+-Dt 8710 Kt 9710
+
+? Do’kondagi binoga eskirish hisoblanganda qanday buxgalteriya provodkasi beriladi
++Dt 9410   Kt 0220
+-Dt 2010    Kt 0220
+-Dt 0310    Kt 7910
+-Dt 9420   Kt 0220
+
+? Mart oyida xodimga 8650000 so’m ish haqi hisoblandi. Xodimdan ushlanadigan daromad solig’i summasini aniqlang
++103800
+-103960
+-206800
+-205900
+
+? Mart oyida xodimga 11450000 so’m ish haqi hisoblandi. Uning ish haqidan 1250000 so’m  o’zining o’qishi uchun kontrakt to’loviga o’tkazilgan. Xodimga mart oyida hisoblanadigan jamg’arib boriladigan pensiya jamg’armasiga ajratma summasini hisoblang
++10200
+-10800
+-11450
+-11800
+
+? Aprel oyida xodimga 6350000 so’m ish haqi, 2450000 so’m moddiy rag’bat, 1250000 moddiy yordam hisoblandi. Xodimdan aprel oyida ushlanadigan daromad solig’ini hisoblang
++1056000
+-1206000
+-1400000
+-1620000
+
+? Aprel oyida xodimga 11255000 so’m ish haqi, 8450000 moddiy yordam hisoblandi. Xodimdan aprel oyida ushlanadigan daromad solig’ini hisoblang
++1832880
+-2364000
+-1968000
+-2420000
+
+? Aprel oyida xodim 24 kunga mehnat ta’tiliga chiqdi. Xodimning oylik maoshi 4620000 so’m bo’lib, 12 oy ishlab mehnat ta’tiliga chiqdi, ishlagan davrida 26000000 so’m moddiy rag’batlantirish berilgan. Xodimga ta’til pulini hisoblang
++6412598
+-8908650
+-965000
+-6925625
+
+? Aprel oyida xodim 24 kunga mehnat ta’tiliga chiqdi. Xodimning oylik maoshi 4620000 so’m bo’lib, 12 oy ishlab mehnat ta’tiliga chiqdi, ishlagan davrida 26000000 so’m moddiy rag’batlantirish berilgan. Ta’tilga chiqish munosabati bilan xodimga 3500000 so’m moddiy yordam berilgan.  Xodimdan ushlanadigan daromad solig’ini hisoblang
++814400
+-890865
+-965000
+-692562
+
+? Aprel oyida 24 ish kuni mavjud bo’lib, xodim 10 ish kuni ishlagan, 14 ish kuni uchun vaqtinchalik mehnatga qobiliyatsizlik varaqasi topshirgan.  Xodimning oylik maoshi 4642000 so’m bo’lib, 5 yil mehnat stajiga ega bo’lsa, xodimga aprel oyi uchun ish haqi va nafaqa pulini hisoblang
++3558867
+-3680900
+-4215300
+-4112200
+
+? Aprel oyida 24 ish kuni mavjud bo’lib, xodim 6 ish kuni ishlagan, 18 ish kuni uchun vaqtinchalik mehnatga qobiliyatsizlik varaqasi topshirgan.  Xodimning oylik maoshi 9300000 so’m bo’lib, 4 yil mehnat stajiga ega bo’lsa, xodimga aprel oyi uchun fuqarolarning jamg’arib boriladigan pensiya jamg’armasiga ajratmani hisoblang
++6510
+-6243
+- 6815
+-6925 
+
+? Xodim 12 oy ishlab 24 kunga mehnat ta’tiliga chiqdi. Xodimning oylik maoshi oklad 6450000 so’m. Ishlagan davrida 10000000 so’m moddiy rag’batlantirish olgan. Xodimga  fuqarolarning jamg’arib boriladigan pensiya jamg’armasiga ajratmani hisoblang
++7283
+-7998
+-9650
+-6925

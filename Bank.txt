@@ -1,0 +1,309 @@
+? Jismoniy shaxs bank binosida joylashmagan amaliyot kassasiga muddatli depozitga pul topshirdi. Quyida keltirilgan buxgalteriya provodkasining to‘g‘risini aniqlang.
++ D-t 10111 K-t 20606
+- D-t 10111 K-t 20406
+- D-t 10101 K-t 20406
+- D-t 10101 K-t 20606
+
+? Banklarda sintetik hisobning registlariga va hujjatlariga quyidagilarni qaysi biri kirmaydi:
++ Memorial orderlar.
+- Buxgalteriya jurnallari, kunlik, oylik va yillik balanslari.
+- Tekshirish qaydnomalari, oborot qaydnomalari (chorak, yillik);
+- Kassa jurnallari, yigma varaqalar;
+
+? Aktseptli to‘lov talabnomasi №1 kortotekaga qabul qilinganda qanday buxgalteriya yozuvi beriladi?
++ D-t 90962 K-t 96319
+- D-t 90963 K-t 96321
+- D-t 94502 K-t 96381
+- D-t 90965 K-t 96323
+
+? Bek-ofisga berilgan to‘g‘ri izohni toping.
++ Bek ofis bu– Front-ofis tomonidan dastlabki nazoratdan o‘tgan va ijro uchun taqdim qilingan operatsiyalarni joriy va yakuniy nazoratdan o‘tkazish hamda bank operatsiyalarini amalga oshiruvchi buxgalterlar guruhi;
+- Bek ofis bu– bank operatsiyalarini joriy nazoratdan o‘tkazish hamda bank operatsiyalarini amalga oshiruvchi buxgalterlar guruhi;
+- Mijozlar bilan bevosita muomalada bo‘ladigan xodimlari guruhidan iborat bo‘ladi;
+- Mijozlar bilan bevosita muomalada bo‘ladigan va barcha bank xizmatlarini ko‘rsatadigan bankning operatsion xodimlari guruhidan iborat bo‘ladi.
+
+? Inkassatsiya qilingan naqd pullar qopida qayta sanash paytida ortiqcha pul mablag‘i aniqlanganda qanday o‘tkazma beriladi?
++ DT - 10101; KT - 29816;
+- DT - 10101; KT - 20208;
+- DT - 29816; KT – 10101;
+- DT - 10101; KT - 29804.
+
+? Birlamchi buxgalteriya operatsiyalarini o‘zida aks ettirib, ular haqida mufassal axborot beruvchi hisobvaraqlar guruhi -
++ Analitik hisob deb yuritiladi;
+- Birlamchi hisob deb yuritiladi;
+- Sintetik hisob deb yuritilad
+- Moliyaviy hisob deb yuritiladi.
+
+? Bank mijozi bo‘lgan “DEVELOPMENT” qoshma korxonasining hisobraqamidan naqd pul berildi. To‘g‘ri buxgalteriya yozuvini ko‘rsating.
++ D-t 20214 K-t 10101
+- D-t 10101 K-t 20214
+- D-t 20210 K-t 10101
+- D-t 10101 K-t 20210
+
+? O‘zbekiston Respublikasida Naqd pulsiz hisob-kitoblarni amalga oshirishda qo‘llaniladigan pul hisob-kitob hujjatlari qaysi javobda to‘g‘ri keltirilgan?
++ To‘lov topshiriqnomasi, to‘lov talabnomasi, inkasso topshiriqnomasi, akkreditivga ariza, memorial order;
+- To‘lov topshiriqnomasi, inkasso topshiriqnomasi, akkreditivga ariza, tijorat bankining hisob-kitob cheki, plastik kartochka;
+- Inkasso topshiriqnomasi, to‘lov topshiriqnomasi, akkreditivga ariza, memorial order, to‘lov talabnomasi, to‘lov topshiriqnomasi talabnomasi;
+- To‘lov topshiriqnomasi, to‘lov talabnomasi, inkasso topshiriqnomasi, akkreditivga ariza, tijorat bankining hisob-kitob cheki.
+
+? Davlat korxonasiga berilgan uzoq muddatli kreditning muddati o‘tganda qanday buxgalteriya provodkasi keltiriladi?
++ D-t 12705 K-t 15101
+- D-t 12709 K-t 15101
+- D-t 15105 K-t 15101
+- D-t 15199 K-t 15101
+
+? Inkasso topshiriqnomasi -
++ Mablag‘ oluvchining to‘lovchining hisobvarag‘idan so‘zsiz tartibda mablag‘ni hisobdan chiqarish to‘g‘risidagi bangga bergan topshirig‘ini anglatadi;
+- Mablag‘larni oluvchining belgilangan summani to‘lovchi tomonidan bank orqali to‘lashi to‘g‘risidagi talabini o‘z ichiga olgan, pul -hisob - kitob hujjatidir;
+- Mijoz o‘z hisobvarag‘idan unga xizmat ko‘rsatuvchi bangga ma’lum bir summani mablag‘ oluvchining hisobvarag‘iga o‘tkazish to‘g‘risidagi topshirig‘ini anglatadi;
+- Bankning ichki operatsiyalarini amalga oshirishda foydalanadigan pul - hisob - kitob hujjati.
+
+? Muddati o‘tgan faktoring summasi qanday hisobga olinadi?
++ D-t 11103 K-t 11101
+- D-t 11105 K-t 11101
+- D-t 11103 K-t 11105
+- D-t 11101 K-t 11103
+
+? To‘lov talabnomasining aktseptlash muddati necha ish kuni qilib belgilangan?
++ 5 ish kuni, mablag‘larni to‘lovchining arizasiga asosan 10 ish kuni;
+- 10 ish kuni, mablag‘larni to‘lovchining arizasiga 20 ish kuni asosan;
+- 3 ish kuni, mablag‘larni to‘lovchining arizasiga asosan 15 ish kuni;
+- 5 ish kuni, mablag‘larni to‘lovchining arizasiga asosan 30 ish kuni.
+
+? Markaziy bank kursi va xarid kursi orasidagi salbiy kurs bo‘yicha farq summasi buxgalteriya hisobida quyidagicha aks ettiriladi:
++ D-t 55302000 K-t 17101000
+- D-t 17101000 K-t 45401000
+- D-t 45401000 K-t 17101000
+- D-t 17101000 K-t 55302000
+
+? Ichki bank nazorati turlarini ko‘rsating
++ Dastlabki nazorat, joriy nazorat, so‘nggi nazorat
+- Joriy nazorat, birinchi nazorat;
+- Joriy nazorat, so‘nggi nazorat;
+- Dastlabki nazorat, so‘nggi nazorat
+
+? Joriy nazorat -
++ Bek ofis xodimi yoki nazoratchi buxgalter tomonidan amalga oshiriladi
+- Front ofis xodimi tomonidan amalga oshiriladi
+- Bank bosh buxgalteri tomonidan amalga oshiriladi
+- Bank boshqaruvchisi tomonidan amalga oshiriladi
+
+? Bosh kitob bo‘yicha kodlash tizimi-
++ Besh xonali;
+- Ikki xonali;
+- To‘rt xonali;
+- Yigirma xonali.
+
+? Bosh kitob bu –
++ Banklarda umumlashgan hisob materiallari haqida axborot berib, bank moliya hisobotlarida ko‘rsatiladigan hisobvaraqlar guruhi bo‘lib hisoblanadi;
+- Balans hisobvaraqlari bo‘yicha yordamchi kitob hisobvaraqlari ma’lumotlari to‘plamidir;
+- Bank moliyaviy hisobotlarida ko‘rsatiladigan hisobvaraqlar guruhidir;
+- Buxgalteriya operatsiyalari batafsil va to‘liq aks ettiriladi.
+? Banklarda yordamchi kitob (analitik hiso- nomerlari necha xonali sonlardan iborat bo‘ladi?
++ 20 xonali;
+- 25 xonali;
+- 5 xonali;
+- 10 xonali.
+
+? Mijozlar talab qilib olinguncha depozit hisobvarag‘ini ochish uchun banklarga hujjatlarni taqdim etgandan so‘ng necha ish kuni davomida hisobvaraq ochilishi lozim
++ 2 bank ish kunidan kechikmay;
+- 1 bank ish kunidan kechikmay;
+- 3 bank ish kunidan kechikmay;
+- 4 bank ish kunidan kechikmay.
+
+? Mijozlarga hisobvaraq ochishda nazorat kaliti, xosraqam va tartib nomeri kim tomonidan aniqlanadi?
++ BDMAB
+- Markaziy bank;
+- Hisob-kitob markazi
+- Axborotlash markazi;
+
+? Muddatli depozit hisobvaraq -
++ Yuridik va jismoniy shaxslarga shartnomada qat’iy kelishilgan muddat va unda ko‘rsatilgan foizlarni to‘lashga doyr mablag‘larni saqlash uchun ochilgan hisobvaraq;
+- Yuridik va jismoniy shaxslarning kundalik maqsadlari uchun xohlagan vaqtda olinishi mumkin bo‘lgan mablag‘lar saqlanadigan hisobvaraq;
+- Davriy badallar asosida, muayyan maqsadni amalga oshirish uchun pul yig‘ish uchun ochilgan hisobvaraq;
+- Bank tomonidan kredit berilayotganda ochiladigan hisobvaraq.
+
+? Akkreditivga ariza bank-emitentga necha nusxada taqdim etiladi?
++ 2 nusxada;
+- 3 nusxada;
+- 4 nusxada;
+- 5 nusxada.
+? Bank mijozi bolgan “DEVELOPMENT” qoshma korxonasining topshirig‘iga asosan hisobraqamidan “BUNYODKOR” XKning hisobraqamiga pul o‘tkazib berildi. To‘g‘ri buxgalteriya yozuvini ko‘rsating.
++ D-t 20214 K-t 20208;
+- D-t 20208 K-t 20214;
+- D-t 20210 K-t 20208;
+- D-t 20208 K-t 20210.
+
+? Kirim kassa operatsiyalarini rasmiylashtirishda qanday hujjatlar rasmiylashtiriladi?
++ E’lonnoma, kassa kirim jurnali, kassa kirim orderi;
+- Memorial order, to‘lov topshiriqnomasi, chek;
+- Hisob-kitob cheki, chiqim orderi;
+- Kassa kirim jurnali, to‘lov topshiriqnomasi.
+
+? Inkassatorlar orqali yig‘ib kelingan inkassatorlik qoplaridagi naqd pul va hisob-kitob cheklari bo‘yicha mablag‘lar shu bank mijoziga tegishli bo‘lsa, qopdagi naqd pul qayta sanalgunga qadar:
++ Debet 19903; Kredit 20200;
+- Debet 10101; Kredit 20200;
+- Debet 20210; Kredit 29803;
+- Debet 19903; Kredit 10101.
+
+? Banklarda kredit operatsiyalari qanday operatsiyalar hisoblanadi?
++ Aktiv operatsiya;
+- Passiv operatsiya;
+- Kredit operatsiC;
+- Muqobil operatsiya.
+
+? Banklar tomonidan jismoniy shaxslarga ajratilgan uzoq muddatli kredit o‘tkazmasi to‘g‘ri ko‘rsatilgan qatorni aniqlang.
++ D-t 14901 K-t 20200, 16103;
+- D-t 20200, 16103 K-t 14901;
+- D-t 12601 K-t 20200, 16103;
+- D-t 15001 K-t 20200, 16103.
+
+? Aktsioner tijorat banklarida ustav kapitali qanday shakllantiriladi?
++ muomalaga oddiy va imtiyozli aktsiyalarni chiqarish orqali;
+- obligatsiyalarni muomalaga chiqarish orqali;
+- depozit sertifikatlarini muomalaga chiqarish orqali;
+- pul mablag‘larini, moddiy va nomoddiy aktivlarni yig‘ish orqali.
+
+? Aktsiyalar bo‘yicha olinadigan daromad nima deb ataladi?
++ dividend;
+- foiz;
+- diskont;
+- foyda.
+
+? Obligatsiya - …
++ bu uning egasi qarz berganligidan guvohlik beruvchi va unga ushbu qimmatli qog‘ozning nominal qiymatini unda ko‘rsatilgan muddatda belgilangan (qat’iy) foiz to‘langan holda qoplash majburiyatini tasdiqlovchi qimmatli qog‘ozdir;
+- bu aksiyadorlik jamiyatining ustav fondiga muayyan hissa qo‘shganlikdan guvohlik beruvchi, uning egasiga foydaning bir qismini olish va odatda, ushbu jamiyatni boshqarishda ishtirok etish xuquqini beruvchi qimmatli qog‘ozdir;
+- bu ularning egalari tomonidan byudjetga pul mablag‘larini berganliklarini tasdiqlovchi hamda ushbu qimmatli qog‘ozlarga egalik qilish butun muddati davomida belgilangan daromadni olish huquqini beruvchi davlat qimmatli qog‘ozlaridir;
+- bu pul mablag‘lari omonatga qo‘yilganligi to‘g‘risida, omonatchiga belgilangan muddat tugaganidan keyin depozit so‘mmasi va unga tegishli foizlarni olish huquqini beruvchi kredit muassasasining guvohnomasidir
+.
+? Aktsiya - …
++ bu aksiyadorlik jamiyatining ustav fondiga muayyan hissa qo‘shganlikdan guvohlik beruvchi, uning egasiga foydaning bir qismini olish va odatda, ushbu jamiyatni boshqarishda ishtirok etish xuquqini beruvchi qimmatli qog‘ozdir;
+- bu uning egasi qarz berganligidan guvohlik beruvchi va unga ushbu qimmatli qog‘ozning nominal qiymatini unda ko‘rsatilgan muddatda belgilangan (qat’iy) foiz to‘langan holda qoplash majburiyatini tasdiqlovchi qimmatli qog‘ozdir;
+- bu ularning egalari tomonidan byudjetga pul mablag‘larini berganliklarini tasdiqlovchi hamda ushbu qimmatli qog‘ozlarga egalik qilish butun muddati davomida belgilangan daromadni olish huquqini beruvchi davlat qimmatli qog‘ozlaridir;
+- bu pul mablag‘lari omonatga qo‘yilganligi to‘g‘risida, omonatchiga belgilangan muddat tugaganidan keyin depozit so‘mmasi va unga tegishli foizlarni olish huquqini beruvchi kredit muassasasining guvohnomasidir.
+? Bank binosida joylashgan valyuta ayirboshlash shoxobchasiga naqd pul berilganda qaysi buxgalteriya provodkasini bajaradi?
++ D-t 10103 K-t 10101;
+- D-t 10103 K-t 10111;
+- D-t 10103 K-t 10109;
+- D-t 10109 K-t 10101.
+
+? Ayirboshlash shoxobchasi tomonidan sotib olingan naqd chet el valyutasi summasi buxgalteriya hisobida quyidagicha aks ettiriladi:
++ D-t 10103840 K-t 17101840;
+- D-t 10101840 K-t 17101840;
+- D-t 17101840 K-t 10103840;
+- D-t 10103840 K-t 10101840.
+
+? Asosiy vositalarga qanday usullardan foydalangan holda amortizatsiya hisoblanadi?
++ to‘g‘ri chiziqli, bajarilgan ishlar hajmiga mutanosib ravishda, tezlashtirilgan amortizatsiya hisoblash usullari;
+- to‘g‘ri chiziqli amortizatsiya hisoblash usuli;
+- to‘g‘ri chiziqli, tezlashtirilgan amortizatsiya hisoblash usullari;
+- bajarilgan ishlar hajmiga mutanosib ravishda, tezlashtirilgan amortizatsiya hisoblash usullari.
+
+? Asosiy vosita (bank binosi) puli oldindan to‘lab sotib olinganda va balansga kirim qilinganda quyidagi buxgalteriya yozuvi amalga oshiriladi:
++ D-t 19909 K-t 20208, 16103 D-t 16509 K-t 19909;
+- D-t 16505 K-t 20208, 16103 D-t 19909 K-t 16505;
+- D-t 16509 K-t 20208, 16103 D-t 19909 K-t 16509;
+- D-t 19909 K-t 20208, 16103 D-t 16505 K-t 19909.
+
+? Agar bank to‘lovni moddiy aktivlar kirim qilingandan keyin amalga oshirsa, tegishli kirim hujjatlariga asosan quyidagi buxgalteriya yozuvi bajariladi:
++ D-t 165** K-t 29802, D-t 29802 K-t 16103, 10301;
+- D-t 29802 K-t 165, D-t 29802 K-t 16103, 10301;
+- D-t 19909 K-t 29802, D-t 29802 K-t 16103, 10301;
+- D-t 16103 K-t 29802, D-t 19909 K-t 16103, 10301.
+
+? Kam baholi va tez eskiruvchi buyumlar foydalanishga berilganda quyidagi provodka bilan rasmiylashtiriladi:
++ D-t 56406 K-t 19921;
+- D-t 56406 K-t 19909;
+- D-t 19909 K-t 56406;
+- D-t 19921 K-t 56406.
+
+? Banklar foizli daromadlari asosan qanday operatsiyalar orqali vujudga keladi?
++ Riskka tortilgan aktiv operatsiyalardan
+- Omonat operatsiyalardan
+- Likvid mablag‘lardan
+- Passiv operatsiyalardan
+
+? Banklar tomonidan ajratilgan kreditlar bo‘yicha foiz hisoblanganda qanday buxgalteriya o‘tkazmalari beriladi?
++ D-t 16309 K-t 45217
+- D-t 11195 K-t 11101
+- D-t 11101 K-t 45217
+- D-t 11195 K-t 11199
+
+? Faktoring operatsiyasida diskont summasi daromad sifatida tan olinganda qanday hisobga olinadi?
++ D-t 11195 K-t 45217
+- D-t 11195 K-t 11101
+- D-t 11101 K-t 45217
+- D-t 11195 K-t 11199
+
+? Lizing beruvchi bank tomonidan lizing bo‘yicha foizli daromadlar hisoblanganda qanday buxgalteriya o‘tkazmalari beriladi?
++ D-t 16323; K-t 45100;
+- D-t 15600; K-t 19909;
+- D-t 45100; K-t 16323;
+- D-t 15600; K-t 16500.
+
+? Soliqlar oldindan (avans) to‘langanda qanday buxgalteriya o‘tkazmalari beriladi?
++ D-t 19931, K-t 23402
+- D-t 19925, K-t 23402
+- D-t 56714, K-t 23402
+- D-t 19925, K-t 22502
+
+? Soliqlar oldindan (avans) to‘langanda qanday buxgalteriya o‘tkazmalari beriladi?
++ D-t 19931, K-t 23402
+- D-t 19925, K-t 23402
+- D-t 56714, K-t 23402
+- D-t 19925, K-t 22502
+
+? Foydadan boshqa soliqlar hisoblab to‘langanda qanday buxgalteriya o‘tkazmalari beriladi?
++ D-t 56714, K-t 22504, D-t 22504, K-t 23402
+- D-t 56902, K-t 23402, D-t 23402, K-t 22504
+- D-t 56714, K-t 23402, D-t 22504, K-t 56714
+- D-t 19925, K-t 22502, D-t 22503, K-t 23402
+
+? Foyda solig‘i hisoblanganda qanday buxgalteriya o‘tkazmalari beriladi?
++ D-t 56902, K-t 22502
+- D-t 56902, K-t 23402
+- D-t 56714, K-t 23402
+- D-t 19925, K-t 22502
+
+? Bank xodimlari ish haqisidan ushlab qolingan daromad solig‘i qanday buxgalteriya o‘tkazmasi beriladi?
++ D-t 56102, K-t 22506
+- D-t 56902, K-t 29803
+- D-t 56714, K-t 22506
+- D-t 19925, K-t 22502
+
+? Naqd pul va tangalar ekspertizaga qabul qilinganda qanday buxgalteriya o‘tkazmasi beriladi?
++ D-t 90141, K-t 96303
+- D-t 90143, K-t 96303
+- D-t 96303, K-t 90141
+- D-t 96303, K-t 90143
+
+
+? Agarda, bank svop bitimining birinchi qismi bo‘yicha chet el valyutasini xarid qilayotgan bo‘lsa qanday buxgalteriya o‘tkazmasi beriladi?
++ D-t 92736, K-t 96373
+- D-t 90143, K-t 96303
+- D-t 96373, K-t 92736
+- D-t 96303, K-t 90143
+
+? Pul va tangalar to‘lovga yaroqli deb topilganda qanday buxgalteriya o‘tkazmasi beriladi?
++ D-t 96303, K-t 90141
+- D-t 90141, K-t 96303
+- D-t 90143, K-t 96303
+- D-t 96303, K-t 90143
+
+? Tijorat banklarida balans tuziladi:
++ har kuni
+- har oyda
+- har chorakda
+- yillik
+
+? Balans tengligi to‘g‘ri ko‘rsatilgan qatorni belgilang:
++ aktivlar = majburiyat + kapital
+- aktivlar = kapital + xarajatlar
+- aktivlar = kapital + daromadlar
+- aktivlar = daromadlar – xarajatlar
+
+? Tijorat banklari tomonidan topshiriladigan moliyaviy hisobotlar to‘g‘ri ko‘rsatilgan qatorni belgilang:
++ moliyaviy holat to‘g‘risidagi hisobot, foyda yoki zarar va boshqa umumlashgan daromad to‘g‘risidagi hisobot, xususiy kapitaldagi o‘zgarishlar to‘g‘risidagi hisobot, pul mablag‘lari harakati to‘g‘risidagi hisobot
+- moliyaviy holat to‘g‘risidagi hisobot, foyda yoki zarar va boshqa umumlashgan daromad to‘g‘risidagi hisobot, aktivlar harakati to‘g‘risidagi hisobot, xususiy kapitaldagi o‘zgarishlar to‘g‘risidagi hisobot, pul mablag‘lari harakati to‘g‘risidagi hisobot
+- buxgalteriya balansi va moliyaviy natijalar to‘g‘risidagi hisobot
+- moliyaviy natijalar to‘g‘risidagi hisobot

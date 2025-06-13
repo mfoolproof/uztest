@@ -1,0 +1,339 @@
+? Marketing tahlilda qo’llaniladigan matritsa usullariga qaysi usullar kiradi?  
++
+SWOT analiz 
+ -
+xavf nazariyasi 
+ -
+“Delfa” metodi 
+ -
+jamoa g’oyasining paydo bo’lishi metodi 
+
+? Xususiylikdan umumiylik sari o’rganish uslubi bu…….
++
+induksiya 
+ -
+deduksiya 
+-
+sintez 
+ -
+analiz 
+? Turdosh ob’yektlar o’rtasidagi o’xshashlik yoki  farqlarni aniqlash maqsadida qiyoslash…. dir
++
+Taqqoslash
+ -
+umumlashtirish
+ -
+guruhlashtirish 
+ -
+Tezkor
+
+? Korxonalarning eng birinchi darajali likvid mablag’lariga quyidagilar kiradi?
++
+Pul mablag’lari
+-
+Tovar moddiy zahiralari
+-
+Debitor qarzlari
+-
+ Nomoddiy aktivlari
+
+
+?  Yalpi foyda qanday aniqlanadi?
++
+Sotishdan olingan sof tushumdan ishlab chiqarish tannarxi ayriladi. 
+-
+Sotishdan olingan sof tushumga ishlab chiqarish tannarxi qo’shiladi. 
+
+-
+Sotishdan olingan sof tushum 100 ga ko’paytirilib, ishlab chiqarish
+ tannarxiga bo’linadi. 
+
+-
+Sotishdan olingan sof tushum 100 ga bo’linib, ishlab chiqarish tannarxiga 
+ko’paytiriladi. 
+
+? Iqtisodiy tahlilda qanday usullardan foydalaniladi?  
++
+taqqoslash, guruhlash, balansli bog’lanish, zanjirli bog’lanish 
++
+inventarizatsiya, kalkulatsiya qilish 
+-
+hujjatlashtirish, ikkiyoqlama yozuv 
+-
+baholash, kalkulatsiya qilish, ikkiyoqlama yozuv 
+
+? Asosiy vositalar rentabelligi qanday aniqlanadi?
++ sof foydani asosiy vositalarning yillik o‘rtacha qiymatiga bo‘lib 100 ga ko‘paytirish orqali
+- sof foydani asosiy vositalarning boshlang‘ich qiymatiga bo‘lib 100 ga ko‘paytirish orqali
+- sof foydani asosiy vositalarning yil oxiridagi qiymatiga bo‘lib 100 ga ko‘paytirish orqali
+- sof foydani asosiy vositalarning tugatish qiymatiga bo‘lib 100 ga ko‘paytirish orqali
+
+?  Quyidagi javoblardan qaysi biri umumxo’jalik foydasini aks ettiradi?
++ Asosiy faoliyat foydasiga moliyaviy faoliyatdan daromadlar qo ‘shilib,moliyaviy daromaddan xarajatlar ayiriladi
+Sotishdan olingan sof tushumdan ishlab ciqarish tannarxi ayiriladi
+- Soliq to‘langungacha foydadan  foyda solig ‘i  ayiriladi
+- Sotishdan olingan sof tushumdan davr xarajatlari ayiriladi
+- Sotishdan olingan sof tushumdan ishlab ciqarish tannarxi ayiriladi
+
+? Korxona moliyaviy barqarorligining turlari qaysi javobda to’ liq  keltirilgan?
++ joriy,imkon,yuzaki, real
+- ichki,tashqi,omilli
+- bir omilli va ko‘p omilli
+- joriy,imkon
+
+? Iqtisodiy tahlil dastlab…………………………faoliyati uchun samarali hisoblangan 
++ savdo
+- maishiy xizmat
+- qishloq xo’jaligi
+- qurilish	
+
+? Mehnat resurslariga kimlar kiradi?
++ 16 yoshdan 60 yoshgacha erkaklar va 16 yoshdan 55 yoshgacha ayollar
+- 18 yoshdan 60 yoshgacha erkaklar va 17 yoshdan 55 yoshgacha ayollar
+- 16 yoshdan 65 yoshgacha erkaklar va 16 yoshdan 55 yoshgacha ayollar
+- 18 yoshdan 65 yoshgacha erkaklar va 17 yoshdan 55 yoshgacha ayollar
+
+?Tovar balansi formulasini toping
++ Yb+T=ST+Yo
+-Yo+T=ST-Yo
+-Yo=T+Yb
+-Yb+ST=Yo
+
+? Qanday debitorlik va kreditorlik qarzlari muddati o’tgan qarz hisoblanadi?  
++ 3 oydan oshgan
+-2 oydan oshgan
+-1 oydan oshgan
+-15 kundan oshgan
+
+? O’zgaruvchan xarajatlarga qanday xarajatlar kiradi?  
++ Ijara to’lovi
+- Sotish xarajatlari
+- Xom shyoga xarajatlar
+- ishlab chiqarishda band bo’lgan xodimlar ish haqi
+
+? Korxonalarning  moliyaviy faoliyatiga qaysi ko’rsatkichlar kiradi? 
++ Moliyaviy barqarorlik,kreditga layoqatlilik
+ -Xodimlar soni, ishlab chiqarish imkoniyati
+- O’z va qarz mablag’larining mavjudligi
+-Mehnat unumdorligi,fond rentabelligi
+
+? Buxgalteriya balansida necha xil o’zgarish bo’ladi?
++ 4
+-3
+- 5
+-2
+
+? Bozorga yaqinda  kirib kelgan va reklama muhtoj tovarlar…
++  Og’ir bola
+ -   Yulduz
+ - O’lik yuk
+ -Sog’in sigir
+
+? Tezkor tahlil bu………..
++ Kunlik, smenalik va o’n kunlik bo’yicha o’tkaziladigan tahlil
+Oy, kavrtal va yil yakuni bo’yicha o’tkaziladigan tahlil 
+-Yig’ma hisobotlar bo’yicha o’tkaziladigan tahlil 
+- Oy, kavrtal va yil yakuni bo’yicha o’tkaziladigan tahlil
+-Korxonalararo taqqoslama tahlil 
+? Tovarlarning texnik parametrlariga qaysi xususiyatlari kiradi?
++
+tovar hususiyati, uni qo'llanishi va tavsiya etilishi
+-
+tovarlarning tashqi ko'rinishi
+-
+tovarning inson organizmiga zararsizligi
+-
+
+tovarning amaldagi me'yorlarga va standartlarga mos kelishi
+
+?  Quyidagi tengliklardan qaysi biri to’g’ri?
++ Aktiv = Kapital+Majburiyat 
+- Aktiv=Kapital
+- Passiv=Aktiv+majburiyat
+- Aylanma mablag’lar=Majburiyatlar
+
+? Asosiy vositalarning yaroqlilik koeffisienti  qanday hisoblanadi?
++ Asosiy vositalarning qoldiq qiymatini ularning dastlabki qiymatiga bo’lish orqali 
+- Asosiy vositalarning qoldiq qiymatini ularning eskirish qiymatiga bo’lish orqali
+-Asosiy vositalarning yil boshidagi qiymatidan yil oxiridagi qiymatini ayirish orqali
+- Asosiy vositalarning boshlang’ich qiymatidan tugatish  qiymatini ayirish orqali
+
+? Quyidagilardan  qaysi biri asosiy vositalarning yangilanish manbalari hisoblanadi?
++ Tekinga olingan mulk
+- Asosiy vositalarni sotish
+- Asosiy vositalarning ma’naviy eskirishi
+-Asosiy vositalarning ortiqchaligi
+
+? Debitor  qarzdorliklar ………..
++ Korxona tomonidan olinishi zarur bo’lgan mablag’lar
+-Korxona tomonidan to’lanishi zarur bo’lgan mablag’lar
+-Korxona tomonidan to’lanishi zarur bo’lgan xarajatlar
+-O’tgan yilga tegishli bo’lgan ammo hisobot yilida aniqlangan foyda
+
+? Kreditga layoqatlilikni aniqlash uchun  qo’llaniladigan koeffisiyentlar?
++ Likvidlik,qoplash,muxtoriylik
+- Rentabellik,likvidlik,muxtoriylik
+- Likvidlik,rentabellik
+-Muxtoriylik,rentabellik
+
+? Mahsulot sotishdan tushgan tushumning o’sishi  qaysi holatlarda salbiy bo’ladi?
++ 0 dan past
+- 20 dan yuqori
+- 0 dan 5 gacha
+-5 dan 10 gacha
+
+? Faqat shu fanning o‘ziga tegishli bo‘lgan, tadqiqot obyektiga qarab tanlanadigan usullar va tartiblar tizimiga nima deyiladi?
++ Xususiy uslub
+- Taqqoslash
+-umumiy uslub
+-Miqdorlar
+
+? Moddiy resurslarning ta`rifi:moddiy resurslarga qaysi quyidagi elementlar kiradi?
++Xom ashyo va uskunalar
+ -Inson omili
+-Moliyaviy resurslar
+-Investitsiyalar
+
+?.SVOT tahlilida qaysi geometrik atamadan foydalaniladi ?
++  kvadrat
+-  oval
+- kub
+- piramida
+
+?To’lovga layoqatlilikni baholashda  qaysi ko’rsatkichlardan foydalaniladi?
++ mutloq,oraliq,joriy
+- qoplash ,mustaqillik
+-muxtoriylik,oraliq
+-qoplash,joriy
+
+? Barqarorlik zahirasi ……
++ bir necha yillar davomida  shakllangan moliyaviy zahiralar miqdori  tasodifiy va  keskin tashqi kutilmagan o’zgarishlarni oldini olishga qaratilgan  bo’ladi
+- o’tgan yilning ortiqcha daromadlari 
+- Taqsimlanmagan foydadan ajratiladi 
+- Korxonaning daromadi ko’pligi
+
+? Xususiy  kapital rentabelligi qanday aniqlanadi?
++ Sof foyda Xususiy kapitalning yillik o’rtacha qiymatiga bo’linadi
+- Xusuiy kapitalning yil boshidagi qiymatidan yil oxiridagi qiymati ayiriladi 
+- Xusuiy kapitalning yil oxiridagi qiymatidan yil boshidagi qiymati ayiriladi 
+- Sof foyda Xususiy kapitalning yil boshidagi qiymatiga bo’linadi
+
+? Quyidagilardan qaysi biri xususiy kapital tarkibiga kirmaydi?
++Kapital qo’yilmalar
+-Ustav kapitali
+-Taqsimlanmagan foyda
+-Qo’shilgan kapital
+
+? Bir so’mlik Tovar mahsulot uchun qilingan xarajat………..aniqlanadi?
++Ishlab chiqarish tannarxini tovar mahsulotining ulgurji bahosiga bo’lish orqali
+- Sotishdan tushgan tushumni tannarxga bo’lish orqali
+-Ishlab chiqarish tannarxini sof foydaga bo’lish orqali
+- Sof foydani  tannarxga bo’lish orqali
+
+? Davriga qarab xarajatlar qanday turlarga bo’linadi?
++ Joriy va Kelgusi
+-o’zgaruvchan va o’zgarmas
+-asosiy va moliyaviy
+- to’g’ri va egri
+
+? Bir ishchiga to’g’ri keladigan o’rtacha yillik mahsulot?
++ Bir ishchining o’rtacha ishlagan kishi kunlari*ish kuni davomiyligi*ishchining bir soatlik ish unumi 
+-Bir ishchining o’rtacha ishlagan kishi kunlari*ish kuni davomiyligi/ishchining bir soatlik ish unumi 
+ - Bir ishchining o’rtacha ishlagan kishi kunlari*ish kuni davomiyligi
+- Bir ishchining o’rtacha ishlagan kishi kunlari*ishchining bir soatlik ish unumi 
+
+? Mehnat unumdorligining o’lchov birliklari……..?
++Javoblarning barchasi to’g’ri
+-qiymat
+-natura
+-mehnat
+
+?  Ishchilarning  ish vaqti fondiga ta’sir etuvchi omillar ta’siri qanday aniqlanadi?
++IVF=Is*Kk*Ko
+- IVF=Is*Kk
+- IVF=Is*Ko
+- IVF=Kk*Ko
+
+? Raqobat qanday turlarga bo’linadi? 
++Sof va g’irrom raqobat
+- faol va nofaol raqobat
+-ichki va tashqi raqobat
+- O’zgaruvchan va o’zgarmas raqobat
+
+?Talab bu ?
++ Pul bilan ta’minlangan ehtiyoj
+-Birinchi navbatdagi ehtiyoj
+-Bozorning to’yinganligi
+-Sotilgan Tovar
+
+? Kreditorlik  qarzlarining  shartli aylanish koeffisienti qanday aniqlanadi?
++sotilgan mahsulotlar tannarxini jami kreditorlik majburiyatlariga bo’lish orqali
+- sotilgan mahsulotlar tannarxini muddati o’tgan kreditorlik majburiyatlariga bo’lish orqali
+- sotilgan mahsulotlar tannarxini debitorlik qarzlariga  bo’lish orqali
+- jami kreditorlik majburiyatlarini sotilgan mahsulotlar tannarxiga bo’lish orqali
+
+? Asosiy vositalarning eskirish koeffisienti qanday aniqlanadi?
++ Asosiy vositalarning eskirish qiymatini ularning dastlabki qiymatiga bo’lish orqali 
+- Asosiy vositalarning qoldiq qiymatini ularning eskirish qiymatiga bo’lish orqali
+-Asosiy vositalarning yil boshidagi qiymatidan yil oxiridagi qiymatini ayirish orqali
+- Asosiy vositalarning boshlang’ich qiymatidan tugatish  qiymatini ayirish orqali
+
+? Mehnat unumdorligi nimani anglatadi?
++ Ish vaqtida mehnat samaradorligini
+- Ishchilar sonini
+- Ishchi kuchi sarfini
+- Korxona xarajatlarini
+
+? Mehnat unumdorligi tushunchasi qachon paydo bo'lgan?
++ Ishlab chiqarish inqilobi davrida
+- O'rta asrlarda
+- Yaqin o'tmishda
+- Antik davrda
+
+? SWOT tahlilining asosiy komponentlari qaysilar?
++ Kuchli tomonlar, zaif tomonlar, imkoniyatlar, tahdidlar
+- Sotuvlar hajmi, foyda, xarajatlar, kapital
+- Mehnat resurslari, moliyaviy resurslar, marketing, bozor raqobati
+- Bozor talabi, narx, xarajatlar, foyda
+
+? O‘rganadigan davriga qarab iqtisodiy tahlilning turlari qaysi javobda to‘g‘ri aks ettirilgan?  
++	tezkor tahlil, joriy tahlil, istiqbolli tahlil
+-	tezkor tahlil, ichki tahlil, tashqi tahlil 
+-	tezkor tahlil, joriy tahlil, funksional qiymatli tahlil, xo‘jaliklararo tahlil 
+-	joriy tahlil, boshqaruv tahlili, moliyaviy tahlil
+
+?  Korxonalarni boshqarishdagi o‘rniga qarab iqtisodiy tahlilning turini belgilang.  
++	boshqaruv (ichki) tahlil va moliyaviy (tashqi) tahlil 
+-	moliyaviy tahlil va joriy tahlil 
+-	boshqaruv tahlili va istiqbolli tahlil 
+-	boshqaruv tahlili va tezkor tahlil 
+
+? "Likvidlilik koeffitsiyenti" qanday ma'noni anglatadi?
++ Korxonaning qisqa muddatli majburiyatlarini bajarish qobiliyati
+- Ishlab chiqarish quvvatining oshirilishi
+- Investitsiya daromadini ko'paytirish
+- Tashqi qarzlarni kamaytirish
+
+? Investitsiya tahlilining asosiy maqsadi nima?
++ Investitsiyalarning foydaliligini aniqlash
+- Xarajatlarni kamaytirish
+- Mahsulot narxini oshirish
+- Marketing strategiyasini tuzish
+
+? Tеz sotiladigan aktivlar – Bu…  
++	sof dеbitorlik qarzlari 
+-	asosiy vosita 
+-	tayyor mahsulot 
+-	nomoddiy aktiv
+
+? Perspektiv tahlil nima?
++	Istiqbolli tahlil 
+-	Joriy tahlil
+-	Qiymat tahlili 
+-	Matematik tahlil
+
+? Debitorlik qarzlarining shartli aylanish  koeffisienti qanday aniqlanadi?
++ Sotishdan olingan sof tushumi  haqiqatda/debitorlik qarzlari o’tgan yilgi davri bo’yicha  
+- Sof foyda /debitorlik qarzlari o’tgan yilgi davri bo’yicha  
+-Yil boshidagi debitorlik qarzlari/ yil oxiridagi debitorlik qarzlari
+-Debitorlik qarzlari/  360

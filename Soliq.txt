@@ -1,0 +1,299 @@
+? O‘zbekiston Respublikasi Konstitutsiyasida soliq tizimiga tegishli moddalarni ko‘rsating.
++ 63, 149.
+- 51, 123.
+- 14, 111.
+- 98, 76.
+
+? «Soliqlar va soliqqa tortish» fani nimani o‘rgatadi?
++ Soliq voqeliklarini (harakatlarini) chuqur o‘rganish asosida zaruriy xulosalar chiqarib, ularni amaliyotga tadbiq etish yo‘llarini o‘rgatadi.
+- Iqtisodiy islohotlar sharoitida yuridik va jismoniy shaxslardan olinadigan soliq va to‘lovlar nazariy va amaliy jihatdan o‘rganadi.
+- Soliqlarni tuzilishi, soliq ma’murchiligi va soliqqa tortish ishlarini tahlil qilish ishlarini o‘rganadi.
+- Soliq qonunchiligi va undan kelib rezident va norezident yuridik va jismoniy shaxslarga tadbiqan o‘rganadi.
+
+? «Soliqlar va soliqqa tortish» fanining predmeti:
++ Soliq harakatini o‘rgatadi
+- Transportda harakatlanish qoidalarini o‘rgatadi.
+- Ishlab chiqarishda xavfsizlik texnologiyasini o‘rgatadi.
+- Pul munosabatlarini o‘rgatadi.
+
+?  «Soliqlar va soliqqa tortish» fanining maqsadi:
++ Soliqlar va boshqa majburiy to‘lovlar to‘g‘risidagi tasavvurni hosil qilish va soliq to‘lovchilardan undiriladigan soliq hamda majburiy to‘lovlarning huquqiy asoslarini, soliq majburiyati, soliq nazorati, soliqqa oid huquqbuzarliklar va ularga nisbatan qo‘llaniladigan jazo choralari bo‘yicha bilimlarni shakllantirish.
+- Soliqlarning mohiyatini, ularning zarurligini, soliq elementlari va funksiyalarini, soliq siyosatini, soliqqa tortish va to‘lash tartiblarini, xorijiy mamalakatlar soliq tizimlarini, soliq tizimining nazariy jihatlarini o‘rgatish va amaliy ko‘nikmalarini shakllantirsh.
+- Iqtisodiy islohotlar sharoitida yuridik va jismoniy shaxslardan olinadigan soliq va to‘lovlar, ularni hisoblash va to‘lash masalalarini nazariy va amaliy jihatdan o‘rganadi.
+- Soliqlarni tuzilishi, soliq ma’murchiligi va soliqqa tortish ishlarini tahlil qilish ishlarini o‘rganadi.
+
+? «Soliqlar va soliqqa tortish» fanining vazifalari:
++ Soliqlarning mohiyatini, ularning zarurligini, soliq elementlari va funksiyalarini, soliq siyosatini, soliqqa tortish va to‘lash tartiblarini, xorijiy mamalakatlar soliq tizimlarini, soliq tizimining nazariy jihatlarini o‘rgatish va amaliy ko‘nikmalarini shakllantirsh.
+- Iqtisodiy islohotlar sharoitida yuridik va jismoniy shaxslardan olinadigan soliq va to‘lovlar, ularni hisoblash va to‘lash masalalarini nazariy va amaliy jihatdan o‘rganadi.
+- Soliqlarni tuzilishi, soliq ma’murchiligi va soliqqa tortish ishlarini tahlil qilish ishlarini o‘rganadi.
+- Soliq qonunchiligi va undan kelib chiqadigan burch va ma’suliyat masalalarini rezident va norezident yuridik va jismoniy shaxslarga tadbiqan o‘rganish.
+
+? Fanning boshqa fanlar bilan o‘zaro aloqasi.
++ Iqtisodiyot nazariyasi, tarmoqlar iqtisodiyoti, moliya, buxgalteriya hisobi, soliq nazariyasi, davlat budjeti.
+- Meditsina va sanitariya qoidalariga oid fanlar bilan aloqador.
+- Madaniyat va sportga oid fanlar bilan aloqador.
+- Kimyo, fizika, matematika, geometriya va geografiya fanlari bilan aloqador.
+
+? Soliqlarning iqtisodiy mohiyatini aniqlang.
++ Soliqlar majburiy to‘lovlarni ifoda etuvchi pul munosabatlarida namoyon bo‘ladi.
+- Davlatning pul mablag‘lariga bo‘lgan ehtiyojini qondirishda namoyon bo‘ladi.
+- Sohalar o‘rtasida mutanosiblikni ta’minlashda namoyon bo‘ladi.
+- Soliqlar, yig‘imlar, bojlar davlat moliyaviy resursini tashkil etishda.
+
+? «Yig‘im» tushunchasiga ta’rif bering.
++ Budjet tizimiga to‘lanadigan Soliq Kodeksida yoki boshqa qonun hujjatlarida belgilangan majburiy to‘lov tushuniladi, bu yig‘imning to‘lanishi uni to‘lovchi shaxsga nisbatan vakolatli organ yoki uning mansabdor shaxsi tomonidan yuridik ahamiyatga ega harakatlarni amalga oshirish, shu jumladan unga muayyan huquqlarni yoxud ruxsat etuvchi hujjatlarni berish shartlaridan biri bo‘ladi.
+- Soliq Kodeksida belgilangan, O‘zbekiston Respublikasining Davlat budjetiga yoki davlat maqsadli jamg‘armasiga to‘lanadigan majburiy beg‘araz to‘lov tushuniladi.
+- Soliq kodeksida belgilangan davlat maqsadli jamg‘armalariga majburiy pul to‘lovlari, bojxona to‘lovlari, shuningdek vakolatli organlar hamda mansabdor shaxslar tomonidan yuridik ahamiyatga molik harakatlarni to‘lovchilarga nisbatan amalga oshirish uchun, shu jumladan muayyan huquqlarni yoki litsenziyalar va boshqa ruxsat beruvchi hujjatlarni berish uchun to‘lanishi lozim bo‘lgan yig‘imlar, davlat boji tushuniladi.
+- Muayyan miqdorlarda undiriladigan, muntazam, qaytarib berilmaydigan va beg‘araz xususiyatga ega bo‘lgan, budjetga yo‘naltiriladigan majburiy pul to‘lovlari tushuniladi.
+
+? Quyidagilardan qaysilari soliq elementlariga kiradi.
++ Soliq sub’ekti, soliq o‘bekti, soliq yuki.
+- To‘g‘ri soliqlar.
+- Egri soliqlar.
+- Mahalliy soliqlar.
+
+? Soliqqa tortish sub’ekti bu ...
++ Qonun bilan soliqlar, yig‘imlar va boshqa majburiy to‘lovlarni huquqiy jihatdan to‘lash majburiyati yuklatilgan yuridik va jismoniy shaxslar.
+- Jismoniy shaxslar.
+- Yuridik shaxslar.
+- Fuqarolar.
+
+? Soliq solish ob’yekti bu ...
++ Mol-mulk, harakat, harakat natijasi yoki qiymat, miqdoriy yoki fizik xususiyatga ega bo‘lgan boshqa holat bo‘lib, u mavjud bo‘lganda soliq to‘g‘risidagi qonun hujjatlari soliq to‘lovchida soliq majburiyatini vujudga keltiradi.
+- Soliq solinadigan bazaning o‘lchov birligiga nisbatan qonunchilik tomonidan belgilab qo‘yilgan me’yor.
+- Xo‘jalik faoliyatining natijasi (daromad, foyd+.
+- Soliq solish ob’yektining soliq stavkasi qo‘llaniladigan miqdori.
+? Soliq bazasi bu ...
+
++ Soliq solish ob’yektining soliq stavkasi qo‘llaniladigan miqdori 
+- Soliqqa tortish uchun asos bo‘lib xizmat qiladigan daromad, aylanma, mol-mulk yoki tabiiy resurs hajmidir.
+- Soliq hisoblanadigan bazaning birligiga to‘g‘ri keladigan soliq me’yori.
+- Soliq solinadigan bazaning o‘lchov birligiga nisbatan qonunchilik tomonidan belgilab qo‘yilgan me’yor.
+
+? Soliq stavkasi bu ...
++ Soliq bazasining o‘lchov birligiga nisbatan hisoblanadigan soliqning foizlardagi yoki mutlaq summadagi miqdorini ifodalaydi.
+- Soliqqa tortish uchun asos bo‘lib xizmat qiladigan daromad, aylanma, mol-mulk yoki tabiiy resurs hajmidir.
+- Soliq solish ob’yektining qiymati, jismiy, unga asoslanib budjetga to‘lanishi lozim bo‘lgan soliq summasi aniqlanadi.
+- Soliq solish ob’yektining soliq stavkasi qo‘llaniladigan miqdori.
+
+? Soliq stavkasining turlarini aniqlang.
++ Proporsional, progressiv, regressive.
+- To‘g‘ri, proporsional.
+- O‘sib boruvchi, kamayuvchi.
+- Regressiv, qat’iy.
+
+? Daromad ortishi bilan soliq stavkasi ham ortib borishi ko‘zda tutilgan bo‘lsa bunday holda.
++ Progressiv soliq stavkasi qo‘llanilgan bo‘ladi.
+- Proporsional soliq qo‘llanilgan bo‘ladi.
+- Regressiv soliq qo‘llanilgan bo‘ladi.
+- Egri soliq stavkasi qo‘llanilgan bo‘ladi.
+
+? Daromad yoki foyda ortishi bilan soliq stavkasi o‘zgarmasligi ko‘zda tutilgan bo‘lsa, bunday holda:
++ Proporsional soliq stavkasi qo‘llanilgan bo‘ladi.
+- Progressiv soliq stavkasi qo‘llanilgan bo‘ladi.
+- Regressiv soliq stavkasi qo‘llanilgan bo‘ladi.
+- To‘g‘ri soliq stavkasi qo‘llanilgan bo‘ladi.
+
+? Soliq imtiyozi bu ...
++ Soliq to‘lovchilarning ayrim toifalariga boshqa soliq to‘lovchilarga nisbatan soliq to‘g‘risidagi qonun hujjatlarida nazarda tutilgan afzalliklar, shu jumladan soliqni to‘lamaslik yoki ularni kamroq miqdorda to‘lash imkoniyati.
+- Soliq hisoblanadigan bazaning birligiga to‘g‘ri keladigan soliq me’yori.
+- Soliq solish ob’yektining qiymati, jismiy yoki boshqa tavsifi bo‘lib, unga asoslanib budjetga to‘lanishi lozim bo‘lgan soliq (to‘lov) summasi aniqlanadi.
+- Soliqqa tortish uchun asos bo‘lib xizmat qiladigan daromad, aylanma, mol-mulk yoki tabiiy resurs hajmidir.
+
+? Preferensiya bu ...
++  Muayyan muddatga, vaqtinchalik beriladigan imtiyozlar
+- Soliq to‘lovchilarning ayrim toifalariga boshqa soliq to‘lovchilarga nisbatan soliq to‘g‘risidagi qonun hujjatlarida nazarda tutilgan afzalliklar, shu jumladan soliqni to‘lamaslik yoki ularni kamroq miqdorda to‘lash imkoniyati.
+- Soliq solish ob’yektining qiymati, jismiy yoki boshqa tavsifi bo‘lib, unga asoslanib budjetga to‘lanishi lozim bo‘lgan soliq (to‘lov) summasi aniqlanadi.
+- Soliqqa tortish uchun asos bo‘lib xizmat qiladigan daromad, aylanma, mol-mulk yoki tabiiy resurs hajmidir.
+
+? Undirilgan soliq summasining soliq ob’yekti hajmiga bo‘lgan nisbat natijasi...
++ Soliq yuki yoki og‘irligi deb yuritiladi.
+- Soliq birligi deb yuritiladi.
+- Soliq stavkasi deb yuritiladi.
+- Soliq me’yori deb yuritiladi.
+
+? Soliqlar qanday funksiyalari mavjud?
++ Fiskal, tartibga solib turish, nazorat, rag‘batlantirish, nazorat va hisoblash jarayonini axborot bilan ta’minlash
+- Umumdavlat vazifalarini hal qilish uchun davlatga zaruriy moliyaviy resurslar ta’minlab berish, mamlakat iqtisodiyotida qulay investitsiya muhitini yaratishga ko‘maklashish, aholining mehnat faolligini rag‘batlantirish, iqtisodiy o‘sishni rag‘batlantirish maqsadida daromadlarni taqsimlashning samaradorlik va adolat prinsiplari o‘rtasidagi muvofiqlikka erishish.
+- Fiskal, ijtimoiy (qayta taqsimlash), tartibga solib turish, rejalashtirish va jamg‘arish.
+- Fiskal, ijtimoiy (qayta taqsimlash), tartibga solib turish, nazorat, taqsimlash va jamg‘arish.
+
+? Soliqlarning qanday vazifalarini bilasiz?
++ Umumdavlat vazifalarini hal qilish uchun davlatga zaruriy moliyaviy resurslar ta’minlab berish, mamlakat iqtisodiyotida qulay investitsiya muhitini yaratishga ko‘maklashish, aholining mehnat faolligini rag‘batlantirish, iqtisodiy o‘sishni rag‘batlantirish maqsadida daromadlarni taqsimlashning samaradorlik va adolat prinsiplari o‘rtasidagi muvofiqlikka erishish.
+- Fiskal, tartibga solib turish, nazorat, rag‘batlantirish, nazorat va hisoblash jarayonini axborot bilan ta’minlash. 
+- Fiskal, ijtimoiy (qayta taqsimlash), tartibga solib turish, rejalashtirish va jamg‘arish.
+- Fiskal, ijtimoiy (qayta taqsimlash), tartibga solib turish, nazorat, taqsimlash va jamg‘arish. 
+
+? Soliqqa tortishning qanday usullari mavjud?
++ Kadastrli, deklaratsiya, manba oldida soliqqa tortish.
+- To‘g‘ri va egri.
+- Bevosita va bilvosita.
+- Mahalliy va umumdavlat.
+
+? Soliqlarning qanday tamoyillarini bilasiz?
++ Yetarlilik, adolatlilik, oddiylik va xolislik, boshqarishga qulaylik, arzonlik, qiyoslash.
+- Fiskal, ijtimoiy (qayta taqsimlash), tartibga solib turish, nazorat va jamg‘arish. 
+- Adolatlilik, teng huquqlilik, tartibga solib turish, nazorat va jamg‘arish.
+- Fiskal, nazorat, rag‘batlantirish, nazorat va hisoblash. 
+
+? O‘zbekiston Respublikasida soliq solish Soliq kodeksida belgilangan qaysi prinsiplarga asoslangan.
++ Majburiylik, aniqlik va soliq organlarining soliq to‘lovchilar bilan hamkorligi, adolatlilik, soliq tizimining yagonaligi, oshkoralik va soliq to‘lovchining haqligi prezumpsiyasi.
+- Ixtiyoriy, davlat budjetiga tushishlik, qat’iylik, beg‘arazlik. 
+- Tenglik, soliq stavkalarini qiyoslash, taqqoslash.
+- Tadbirkorlik va investitsiyalarni rag‘batlantirish, hamma daromadlarni soliqqa tortish.
+
+? Soliqlarning soliqqa tortish ob’yekti bo‘yicha guruhlarini ko‘rsating.
++ Oborotdan, daromaddan, mol-mulk qiymatidan va yer maydonidan olinadigan soliqlar.
+- Mahalliy soliqlar va umumdavlat soliqlari.
+- Mol-mulk qiymatidan olinadigan soliqlar
+- Yer maydoniga qarab olinadigan, xarajatlariga qarab olinadigan soliqlar.
+
+? To‘lovchisiga qarab soliqlar…
++ Jismoniy va yuridik shaxslar to‘laydigan soliqlarga bo‘linadi.
+- Bilvosita va bevosita soliqlarga bo‘linadi.
+- Umumdavlat va mahalliy soliqlarga bo‘linadi.
+- Umumbelgilangan va soddalashtirilgan soliqlarga bo‘linadi.
+
+? Umumdavlat soliqlarini ko‘rsating.
++ Foyda solig‘i, jismoniy shaxslardan olinadigan daromad solig‘i, qo‘shilgan qiymat solig‘i, aksiz solig‘i, yer qa’ridan foydalanuvchilar uchun soliqlar, suv resurslaridan foydalanganlik uchun soliq, ijtimoiy soliq.
+- Mol-mulk solig‘i, yer solig‘i, alkogol mahsulotlarini realizatsiya qilish huquqi uchun yigʻim, yagona yer solig‘i.
+- Yagona soliq to‘lovi, yagona yer solig‘i, tadbirkorlik faoliyatining ayrim turlari bo‘yicha qat’iy belgilangan soliq.
+- Ijtimoiy soliq, Avtotransportga yig‘imlar, davlat boji, bojxona to‘lovlari, alkogol mahsulotlarini realizatsiya qilish huquqi uchun yigʻim.
+
+? To‘g‘ri soliqlarga qaysi soliq turlari kiradi.
++ Aylanmadan soliq, mol-mulk solig‘i, yer solig‘i, yer qa’ridan foydalanganlik uchun soliq, suv resurslaridan foydalanganlik uchun soliq.
+- Foyda solig‘i, jismoniy shaxslardan olimadigan daromad solig‘i, yer qa’ridan foydalanganlik uchun soliq.
+- Mol-mulk solig‘i, yer solig‘i, alkogol mahsulotlarini realizatsiya qilish huquqi uchun yigʻim, yagona yer solig‘i.
+- Ijtimoiy soliq, avtotransportga yig‘imlar, davlat boji, alkogol mahsulotlarini realizatsiya qilish huquqi uchun yigʻim.
+
+? Egri soliqlarga qaysi soliq turlari kiradi?
++ Qo‘shilgan qiymat solig‘i, aksiz solig‘i.
+- Mol-mulk solig‘i, yer solig‘i, alkogol mahsulotlarini realizatsiya qilish huquqi uchun yigʻim, yagona yer solig‘i.
+- Yagona soliq to‘lovi, yagona yer solig‘i, tadbirkorlik faoliyatining ayrim turlari bo‘yicha qat’iy belgilangan soliq.
+- Ijtimoiy soliq, avtotransportga yig‘imlar, davlat boji, bojxona to‘lovlari, alkogol mahsulotlarini realizatsiya qilish huquqi uchun yigʻim.
+
+? Bevosita soliqlar...
++ Soliq to‘lovchi tomonidan bevosita to‘lanadi.
+- Korxona va tashkilotlar to‘lasada, aslida soliq yuki iste’molchilar zimmasiga o‘tkazilgan bo‘ladi.
+- Faqat yuridik shaxslar tomonidan to‘lanadigan soliqlardir.
+- Faqat jismoniy shaxslar to‘lovchilar tomonidan to‘lanadigan soliqlardir.
+
+? Bilvosita soliqlar ...
++ Korxona va tashkilotlar to‘lasada, aslida soliq yuki iste’molchilar zimmasiga o‘tkazilgan bo‘ladi.
+- Soliq to‘lovchi tomonidan bevosita to‘lanadi.
+- Faqatgina jismoniy shaxslar tomonidan to‘lanadigan soliqlardir.
+- Faqatgina yuridik shaxslar tomonidan to‘lanadigan soliqlardir.
+
+? Davlat budjeti daromadlarining asosiy manbalarini ko‘rsating.
++ Soliqlar
+- Majburiy to‘lovlar.
+- Soliqsiz daromadlar.
+- Penyalar.
+
+? Soliq kodeksi dastlab O‘zbekistonda qachon qabul qilingan va joriy etilgan?
++ 1997 yil 24 aprel - 1998 yil 1 yanvar,
+- 1996 yil 15 fevral - 1996 yil 1 mart.
+- 1997 yil 15 dekabr - 1998 yil 1 yanvar.
+- 1998 yil 24 aprel - 1999 yil 1 yanvar.
+
+? Yuridik shaxslar soliqlarni qanday shaklda to‘laydilar?
++ Naqd pulsiz shaklda
+- Naqd pul shaklida.
+- Naqd pul va naqd pulsiz shaklda.
+- Ham natura, ham naqd pul shaklida.
+
+? Jismoniy shaxslar soliqlarni qanday shaklda to‘laydilar?
++ Naqd pul va naqd pulsiz shaklda.
+- Naqd pul shaklida.
+- Naqd pulsiz shaklda.
+- Natura shaklida.
+
+? Soliqlar davlat budjetining qaysi qismiga tushadi?
++ Davlat budjetining daromad qismiga tushadi.
+- Soliqlar davlat budjetiga kirmaydi, budjetdan tashqari fondlarga tushadi.
+- Davlat budjetining xarajat qismiga tushadi.
+- Budjetning muvofiqlashtirish qismiga tushadi.
+
+? Soliqlar qaysi budjetlarga tushadi?
++ Umumdavlat soliqlari Respublika budjetiga mahalliy soliqlar va yig‘imlar esa mahalliy budjetlarga tushadi.
+- Faqat mahalliy budjetlarga.
+- Faqat viloyat, tuman budjetlariga tushadi.
+- Faqat umumdavlat (respublik+ budjetiga tushadi.
+
+? Quyida qayd etilgan soliqlarning qaysi biri mahalliy soliqlar va yig‘imlar tarkibiga kiradi?
++ Yer solig‘i,
+- Suv resurslaridan foydalanganlik uchun soliq.
+- Foyda solig‘i.
+- Yer osti boyliklaridan foydalanganlik uchun soliq.
+
+? Quyida qayd etilgan soliqlarning qaysi biri mahalliy soliqlar va yig‘imlar tarkibiga kiradi?
++ Mol-mulk solig‘i
+- Yuridik shaхslardan olinadigan foyda solig‘i.
+- Jismoniy shaхslardan olimadigan daromad solig‘i.
+- Qo‘shilgan qiymat solig‘i.
+
+? Quyida qayd etilgan soliqlarning qaysi biri mahalliy soliqlar va yig‘imlar tarkibiga kiradi?
++ Alkogol mahsulotlarini realizatsiya qilish huquqi uchun yigʻim.
+- Aksiz solig‘i.
+- Yer qa’ridan foydalanganlik uchun soliq.
+- Suv resurslaridan foydalanganlik uchun soliq.
+
+? Mahalliy hokimiyatlar o‘z hohishlaricha soliqlar kiritish huquqiga egami?
++ Ega emas.
+- Huquqi doirasida soliq va yig‘imlar kiritishga haqli.
+- Huquqi doirasidan tashqarida haqli.
+- Qisman ega.
+
+? Faqatgina jismoniy shaxslarga tegishli soliqni aniqlang:
++ Jismoniy shaxslardan olinadigan daromad solig‘i.
+- Yer solig‘i.
+- Foyda solig‘i.
+- Mol-mulk solig‘i.
+
+? Soliq to‘lovchiga ma’muriy jarima kimlar tomonidan qo‘llanishi mumkin?
++ Soliq xizmati organlari, prokuratura organlari va sud.
+- Bojxona organlari.
+- Qo‘riqlash xizmati.
+- Favqulodda faziyatlar vazirligi.
+
+? Soliq va yig‘imlar budjetga quyidagi ketma-ketlikda hisobga olinadi:
++ Asosiy summa, hisoblangan penya, jarima summalari.
+- Hisoblangan penya, asosiy summa, jarima summalari.
+- Jarima summalari, hisoblangan penya, asosiy summa.
+- Asosiy summa, jarima summalari, hisoblangan penya.
+
+? Soliq to‘lovchini javobgarlikka tortish:
++ Soliq va to‘lovlarni to‘lash majburiyatidan ozod etmaydi.
+- Soliq va to‘lovlarni to‘lash majburiyatidan ozod etadi.
+- Soliq va to‘lovlarni to‘lash majburiyatidan qisman ozod etadi.
+- Soliq va to‘lovlarni to‘lash majburiyatidan vaqtincha ozod etadi.
+
+? Soliq to‘lovchi jismoniy shaxslarning huquq va majburiyatlari qanday qonun hujjatlari bilan belgilangan.
++ Soliq kodeksi
+- O‘zbekiston Respublikasi Soliq idorlari to‘g‘risidagi qonuni.
+- Bojxona kodeksi.
+- Tabirkorlik faoliyati erkinliklari va kafolatlari to‘g‘risidagi qonun.
+
+? Soliq siyosatini qaysi organ amalga oshiriladi.
++ Davlat Soliq qo‘mitasi.
+- Moliya vazirligi.
+- Mahalliy organlari.
+- Oliy majlis.
+
+? Soliq siyosatining strategiyasi bu...
++ Soliq siyosatining uzoq muddatli yo‘nalishi bo‘lib, ijtimoiy va iqtisodiy strategiya belgilab bergan ulkan masshtabli vazifalarni kelajakda bajarilishini ta’minlash ko‘zda tutilgan soliqqa doir moliyaviy tadbirlar yig‘indisidir.
+- Iqtisodiy siyosatning ajralmas bir qismi bo‘lib, davlatning muayyan davrda aniq maqsadlarga qaratilgan soliq sohasidagi faoliyatidir.
+- Yuridik va jismoniy shaxslardan olinadigan soliqlar, yig‘imlar, bojlar va majburiy to‘lovlar hamda ularning tuzilish tamoyillari, usullari, soliq nazoratining yig‘indisidir.
+- Belgilangan soliq siyosati strategiyasi ijrosini ta’minlovchi, tez-tez o‘zgarib turuvchi sayi-harakatlarni bildirib, qisqa muddatli va kichik masshtabli moliyaviy chora-tadbirlarni hal qilish.
+
+? Soliq siyosatining taktikasi bu...
++ Belgilangan soliq siyosati strategiyasi ijrosini ta’minlovchi, tez-tez o‘zgarib turuvchi sayi-harakatlarni bildirib, qisqa muddatli va kichik masshtabli moliyaviy chora-tadbirlarni hal qilishga qaratilgan yo‘nalishlar majmuasi hisoblanadi.
+- Iqtisodiy siyosatning ajralmas bir qismi bo‘lib, davlatning muayyan davrda aniq maqsadlarga qaratilgan soliq sohasidagi faoliyatidir.
+- Yuridik va jismoniy shaxslardan olinadigan soliqlar, yig‘imlar, bojlar va majburiy to‘lovlar hamda ularning tuzilish tamoyillari, usullari, soliq nazoratining yig‘indisidir.
+- Soliq siyosatining uzoq muddatli yo‘nalishi bo‘lib, kelajakda bajarilishini ta’minlash ko‘zda tutilgan soliqqa doir moliyaviy tadbirlar yig‘indisidir.
+
+? Soliq bo‘yicha majburiyatni o‘z vaqtida bajartirishning asosiy usuli nimadan iborat?
++ Penya hisoblash, mol-mulkdan foydalanishga chegara qo‘yish, xarajat operatsiyalarini to‘xtatish
+- Bank hisobvaraqlarining xarajat operatsiyalarini to‘xtatish, bank hisobvaraqlaridagi mablag‘larni undirish bo‘yicha ishlar olib boorish.
+- Bank hisobvaraqlarining xarajat operatsiyalarini to‘xtatish, mol-mulkdan foydalanishga chegara qo‘yish, qo‘shimcha ravishda majburiy aksiyalar emissiyasini qo‘llash.
+- Penya hisoblash, hujjatlarni olib qo‘yish.

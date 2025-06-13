@@ -1,0 +1,299 @@
+? Budjet tashkilotlari buxgalteriya balansi ko‘rsatkichlarini hisob registrlari bilan muvofiqligini ko‘rsatib bering?
++Bosh jurnal kitobi va memorial order shakllari
+-Bosh jurnal kitobi, 294 shakldagn daftar
+-294 shakldagn daftar, 296 shakldagi daftar
+-Bosh jurnal kitobi, dastlabki va yig‘ma xujjatlar
+
+? "Boshqa xarajatlar" guruhi bo’yicha mablag’lar belgilangan limitlar doirasida qanday navbatga rioya qilgan holda sarflanadi:
++ Ovqatlantirish, dori-darmonlar; kommunal xizmatlar, boshqa xarajatlar
+- Dori-darmonlar; ovqatlantirish, kommunal xizmatlar, boshqa xarajatlar
+- Kommunal xizmatlar, boshqa xarajatlar
+- Dori-darmonlar, ovqatlantirish
+
+? “Davlat ijtimoiy sug’urtasi bo’yicha nafaqalar tayinlash va to’lash tartibi to’g’risida nizom” ga asosan vaqtinchalik mehnatga qobiliyatsizlik nafaqasi ijtimoiy ahamiyatga ega bo’lmagan kasalliklar yoki maxsus imtiyozga ega bo’lmagan xodimlarga qanday miqdorda to’lanadi.
++ Umumiy ish staji 8 yilgacha 60%, 8 yil va undan ortiq bo’lsa 80%
+- Umumiy ish staji 8 yilgacha bo’lsa 60% undan ortiq bo’lsa 100%
+- Umumiy ish staji 8 yil va undan ortiq bo’lsa 100%
+- 80%, umumiy ish staji 6 yil va undan ortiq bo’lsa 100%
+
+? “O’zbekiston Respublikasi oliy o’quv yurtlarida ta’lim olish uchun yo’naltiriladigan mablag’larga jismoniy shaxslardan olinadigan daromad solig’i bo’yicha imtiyozni qo’llash tartibi to’g’risida”gi Nizom qachon qabul qilingan?
++ 2010 yil 24 mart
+- 2000 yil 14 mart
+- 2006 yil 24 mart
+- 2001 yil 11 yanvar
+
+? 2-shakldagi chorak hisoboti hisobot choragidan keyingi oyning nechanchi kunidan kechikmasdan taqdim qilinadi?
++ 10 kundan
+- 25 kundan
+- 15 kundan
+- 30 kundan
+
+? Aniqlanmagan tushumlar bo’yicha mablag’lar “Daromadlar” schyotiga o’tkazilganda qanday buxgalteriya yozuvi beriladi?
++Dt 041 Kt 040
+-Dt 062 Kt 045
+-Dt 072 Kt 090
+-Dt 080 Kt 041
+
+? Asosiy vositalar tekinga olinganda qanday buxgalteriya yozuvi beriladi?
++ Dt 072 Kt 262
+-Dt 010-019 Kt 080
+-Dt 072 Kt 280
+-Dt 072 Kt 282
+
+? Asosiy vositalarga eskirish qanday hisoblanadi va xujjatlashtiriladi.
++Eskirish normalari bo’yicha buxgalteriya ma’lumotnomalari va raschyotlari tuzilib
+-Belgilangan eskirish normalari asosida
+-Buxgalteriya ma’lumotnomalari va raschyotlari tuzilib
+-Oddiy dalolatnomalar asosida
+
+? Asosiy vositalarning analitik hisobi qaysi buxgalteriya xujjatida yuritiladi.
++ Inventar kartochkalarda
+-Boshlang’ich xujjatlarda
+-qabul qilish-topshirish dalolatnomasida
+-Bosh daftarda 010-019 schyotlarda
+
+? Balansdan tashqari schyotlar nima maqsadda qo’llaniladi.
++Muassasaga tegishli bo’lmagan vaqtinchalik mablag’larni aks ettirish uchun
+-Tashkilotning mol- mulklarini alohida aks ettirish uchun
+-Tashkilotning vaqtinchalik balansidan chiqarilgan mulklar va boshqa qiymatliklar uchun
+-Muassasaga tegishli bo’lgan mablag’larni aks ettirish uchun 
+
+? Boshqa budjetdan tashqari daromadlar bo’yicha joriy moliyaviy natijalar (ijobiy) hisobdan chiqarilganda qanday buxgalteriya yozuvi beriladi?
++ Dt 270 Kt 284
+-Dt 284 Kt 231
+-Dt 284 Kt 271
+-t 270 Kt 272
+
+? Boshqa budjetdan tashqari daromadlar bo’yicha joriy moliyaviy natijalar (salbiy) hisobdan chiqarilganda qanday buxgalteriya yozuvi beriladi?
++ Dt 284 Kt 270
+-Dt 272 Kt 271
+-Dt 284 Kt 231
+-Dt 285 Kt 270
+
+? Budjet hisobi – bu...
++Budjet ijrosi jarayonining buxgalteriya hisobi
+-G’azna ijrosi jarayonlari 
+-Moliya organlarining faoliyati
+-Budjet tashkilotlari moliya xo’jalik faoliyati
+
+? Budjet hisobi funktsiyasi nimalardan iborat?
++ Axborot, nazorat
+-Budjet ijrosida vazifalarni aniq belgilanishi
+-Moliyaviy va boshqaruv nazorati
+-Ma’lumot, tahlil, hisobot
+
+? Budjet hisobini yuritishdan maqsad nima?
++ Foydalanuvchilarga budjet ijrosi jarayoni bo‘yicha to‘liq hamda aniq buxgalteriya va moliyaviy axborotlarni shakllantirib berish
+-Budjet ijrosini amalga oshirish va nazorat qilish
+-Budjet mablag‘lari hisobiga xarajatlarni amalga oshirish
+-Davlatning budjet ijrosi bo‘yicha tegishli qarorlar qabul qilish
+
+? Budjet ijrosi jarayoni bu...
++Budjet mablag’lari va ularni manbaalari harakatiga oid iqtisodiy munosabatlar majmuasidir
+-Budjet tashkilotlari xarajatlarini moliyalashtirishga oid iqtisodiy munosabatlar majmuasidir
+-Budjetdan tashqari mablag’lar va ularni manbaalari harakatiga oid iqtisodiy munosabatlar majmuasidir
+-Iqtisodiy munosabatlar majmuasidir
+
+? Budjet mablag’lari hisobiga amalga oshirilgan haqiqiy harajatlar hisobdan chiqarilganda qanday buxgalteriya yozuvi beriladi?
++ Dt 230 Kt 231
+-Dt231 Kt 230
+-Dt232 Kt 231
+-Dt280 Kt 230
+
+? Budjet mablag’lari hisobiga amalga oshirilgan kassa harajatlar (moliyalashtirish) hisobdan chiqarilganda qanday buxgalteriya yozuvi beriladi?
+ +Dt232 Kt 230
+-Dt230 Kt 232
+-Dt231 Kt 230
+-Dt280 Kt 232
+
+? Budjet mablag’lari hisobiga ish haqi kassaga kirim qilinganda qanday buxgalteriya yozuvi beriladi?
++ Dt120 Kt 232
+-Dt120 Kt 090
+-Dt173 Kt 120
+-Dt120 Kt 173
+
+? Budjet mablag’lari hisobiga kommunal to’lovlar uchun to’lov hisoblanganda qanday buxgalteriya yozuvi beriladi?
+* +Dt231 Kt 159
+-Dt 231 Kt 160
+-Dt 200 Kt 179
+-Dt179 Kt 232
+
+? Budjet mablagi hisobidan oldindan to`lov 15% o`tkazilib va moddiy qiymatlik kirim kilinganda qanday xolat yuzaga keladi?
++Kreditor qarzdorlik
+-Debitor karzdorlik
+-To`lov 100% amalga oshirilmaguncha maxsulot berilmaydi 
+-Moddiy qiymatlikni olib kelishga ruxsat berilmaydi
+
+? Budjet profitsiti nimani anglatadi?
++Muayyan davrda budjet daromadlarining budjet xarajatlaridan ortiq bo’lgan summasi
+-Byudjetdan qarzdorlikni
+-Muayan davrda budjet budjet xarajatlarini daromadlaridan ortiq bo’lgan summasi
+-Davlat budjeti ijrosi jarayonida vaqtincha mablag’larni taqchilligini bildiradi
+
+? Budjet ssudasi deganda nimani tushinasiz?
++Qaytarish sharti bilan yuqori turuvchi byudjetdan quyi byudjetga, shuningdek davlat maqsadli jamg’armalariga rezident-yuridik shaxslarga ajaratiladigan pul mablag’lari
+-O’zbekiston Respublikasi davlat budjetidan berilgan foizli ko’rinishidagi qarzlar
+-Yuqori budjetdan quyi budjetga yoki chet el davlatiga qaytarmaslik sharti bilan ajratilgan mablag’ va qarzlar
+-Yuqori budjetdan maqsadli jamg‘armalarga berilgan vaqtinchalik mablag‘lar
+
+? Budjet ssudasi yuqori budjetdan quyi budjetga rejali vaqtinchalik kassa uzilishlarini qoplash uchun qancha muddatga beriladi?
++1 yilgacha muddatga
+-3 kalendar oyigacha
+-1 kalendar oyigacha 
+-9 kalendar oyigacha 
+
+? Budjet ssudasi yuqori budjetdan quyi budjetga xaqiqiy vaqtinchalik kassa uzilishlarini qoplash uchun qancha muddatga beriladi?
+ +6 kalendar oyigacha
+-10 kalendar oyigacha
+-12 kalendar oyigacha
+-1 yilgacha muddatga
+
+? Budjet tashkiloti budjet mablag’idan asosiy vosita sotib olinganda mablag’ mol yetkazib beruvchiga o’tkazib berilganda qanday pravodka beriladi?
+ +Dt 150 Kt 232
+-Dt 179 Kt 232
+-Dt 232 Kt150
+-Dt 232 Kt 179
+
+? Budjet tashkiloti budjetdan tashqari shahsiy hisob raqamiga homiylardan mablag` kelib tushishiga qanday buxgalteriya yozuvi beriladi?
++Dt 019 Kt 049
+-Dt 010 Kt 040
+-Dt 011 Kt 040
+-Dt 018 Kt 048
+
+? Budjet tashkiloti deganda nimani tushinasiz?
++ Davlat funktsiyalarini amalga oshirish uchun belgilangan tartibda davlat xokimiyati organlarining qaroriga ko’ra tashkil etilgan, davlat byudjeti mablag’lari hisobiga saqlab turiladigan notijorat tashkilot
+-Bu zimmasiga yuklatilgan vazifalarni bajarish bilan bog’liq bo’lgan o’z faoliyatini amalga oshirish uchun Davlat budjetidan moliyalashtiriladi
+-Bu zimmasiga yuklatilgan vazifalarni bajarish bilan bog’liq bo’lgan o’z faoliyatini amalga oshirish uchun Davlat budjetidan mablag’ oladigan va mulkchilikni turli shaklidagi korxonalar
+-Smeta asosida o‘z faoliyatini amalga oshiruvchi xo‘jaliklar
+
+? Budjet tashkiloti ishchi xodimlariga ish xaqi berish uchun budjetdan mablag’ ajratilganda kassaga olinganda qaysi buxgalteriya yozuvi aks ettiriladi?
++ Dt 120 Kt 232
+-Dt 171 Kt 232
+-Dt 173 Kt 232
+-Dt 173 Kt 201
+
+? Budjet tashkiloti shtatlar jadvalini tuzish, ro’yxatdan o’tkazish va tasdiqlash jarayonida kimlar ishtirok etadi?
++ Budjet tashkiloti, Tegishli moliya organi, Yuqori turuvchi idoralar
+-Tegishli moliya organi
+-Yuqori turuvchi idoralar
+-Budjet tashkiloti
+
+? Budjet tashkiloti tomonidan to’lov kontrakt mablag’i hisobidan elektr ta’minoti uchun qilingan xaqiqiy xarajatga qanday pravodka beriladi?
++ Dt 251 Kt 159
+-Dt 251 Kt 232
+-Dt 211 Kt 251
+-Dt 251 Kt 179
+
+? Budjet tashkiloti xarajatlar smetasida xarajatlar necha guruhdan iborat?
++ 4 ta guruhdan iborat
+-2 ta guruhdan iborat
+-3 ta guruhdan iborat
+-5 ta guruhdan iborat
+
+? Budjet tashkiloti xarajatlar smetasiga o’zgartirish qanday xollarda amalga oshirilishi mumkin?
++Qonunchilikda belgilangan hollarda
+-Budjet tashkiloti xarajatlaridan mablag’ ortib qolganda
+-Xarajatlar smetasi bir xarajat moddasidan ikkinchi xarajat moddasiga mablag’ ko’chirilganda
+-Budjet tashkiloti xarajatlariga mablag’ yetmaganda
+
+? Budjet tashkilotida asosiy vositalar hisobini tashkil qilish va yuritishda qaysi me’yoriy xujjatlardan foydalaniladi?
++ “Byudjet tashkilotlarida buxgalteriya hisobi to’g’risida”gi yo’riqnoma va boshqa qonuniy xujjatlar
+-5-BXMS, 19-BXMS, “Buxgalteriya hisobi to’g’risida”gi qonun
+-21-BXMS, 19-BXMS, “Buxgalteriya hisobi to’g’risida”gi qonun, “Byudjet tashkilotlarida buxgalteriya hisobini yuritish to’g’risida”gi yo’riqnoma
+-19-BXMS, “Buxgalteriya hisobi to’g’risida”gi qonun, “Byudjet tashkilotlarida buxgalteriya hisobini yuritish to’g’risida”gi yo’riqnoma
+
+? Budjet tashkilotida ikkilamchi xom ashyo topshirgan lekin xali mablag’ kelib tushmaganda qanday buxgalteriya yozuvi beriladi?
++Dt 152 Kt 272
+-Dt 113 Kt 272
+-Dt 112 Kt 272
+-Dt 114 Kt 159
+
+? Budjet tashkilotida ishchi xodimlarga moddiy yordam puli kassadan berilganda qanday buxgalteriya yozuvi beriladi?
++ Dt 173 Kt 120
+-Dt 174 Kt 120
+-Dt 173 Kt 242
+-Dt 173 Kt 231
+
+? Budjet tashkilotida kasaba uyushmasiga a’zolik badali o’tkazib berilganda qanday buxgalteriya yozuvi beriladi?
++Dt 176 Kt 232
+-Dt 173 Kt 232
+-Dt 171 Kt 232
+-Dt 163 Kt 232
+
+? Budjet tashkilotida rivojlantirish jamg’armasi hisobidan xodimlarga rag’batlantirish hisoblanganda qanday buxgalteriya yozuvi beriladi?
++Dt 261 Kt 173
+-Dt 210 Kt 180
+-Dt 211 Kt 180
+-Dt 261 Kt 180
+
+? Budjet tashkilotida to’lovlarning maxsus turlariga doir mablag`lar bo’yicha joriy yilga moliyaviy natija qaysi hisobvaraqda yuritiladi?
++240
+-232
+-100
+-150
+
+? Budjet tashkilotini budjetdan moliyalashtirish qaysi hisobot shaklida aks etadi?
++2-shakl
+-2-RJ
+-2-BMMJ 
+-2-TK
+
+? Budjet tashkilotini moliyalashtirish uchun yuridik majburiyatni g’aznachilik bo’linmasiga taqdim qilingach necha kun muddatda ko’rib chiqiladi?
++3
+-2
+-4
+-5
+
+? Budjet tashkilotini rivojlantirish jamg’armasi mablag’lari tashkilotning kreditorlik qarzlari bo’lmasa necha foizi moddiy texnika ba’zasini mustaxkamlashga yo’naltiriladi.
++75%
+-100%
+-25%
+-40%
+
+? Budjet tashkilotining hisob siyosati bu ...
++Budjet tashkilotida buxgalteriya hisobini yuritish bo’yicha ishlarning ichki tartibi
+-Budjet tashkilotida buxgalteriya hisobini yuritish bo’yicha choraklik ishlarning ichki tartibi
+-Budjet tashkilotida smeta va uning ijrosi hisobini yuritish bo’yicha ko’p yillik ishlarning ichki xolatlari
+-Budjet tashkilotida buxgalteriya hisobini yuritish bo’yicha oylik ishlarning ichki tartibi
+
+? Budjet tashkilotining rivojlantirish jamg’armasi mablag’i qaysi xarajatlarga yo’naltiriladi.
++Kreditorlik qarzlarni yopishga,moddiy texnika ba’zasini rivojlantirishga, xodimlarni moddiy rag’batlantirishga
+-Ish xaqi hisobiga
+-Ijtimoiy soxaga, moddiy texnika ba’zasiga
+-Moddiy texnika ba’zasini rivojlantirishga, ish xaqi hisobiga
+
+? Budjet tashkilotlarda budjet va budjetdan tashqari mablag’lar ijrosi bo’yicha choraklik va yillik moliyaviy hisobotlarni tuzish va taqdim qilish tartibi qaysi vakolatli organ tomonidan o’rnatiladi
++O’zbekiston Respublikasi Moliya vazirligi tomonidan
+-O’zbekiston Respublikasi Oliy majlisi
+-O’zbekiston Respublikasi Vazirlar maxkamasi 
+-O’zbekiston Respublikasi Hisob palatasi
+
+? Budjet tashkilotlari tovar moddiy qiymatliklari mavsumiy zaxiralari normasini aniqlash tartibi qaysi me’yoriy xujjatda keltirilgan?
++O’zR AV dan 2002 yil 14 martda № 1111 son bilan ro’yxatdan o’tgan
+-O’zR AV dan 2001 yil 10 aprelda № 1025 son bilan ro’yxatdan o’tgan yo’riqnoma
+-O’zR AV dan 2001 yil 12 aprelda № 1025 son bilan ro’yxatdan o’tgan
+-O’zR AV dan 2001 yil 12 aprelda № 165 son bilan ro’yxatdan o’tgan yo’riqnoma
+
+? Budjet tashkilotlari xarajatlar smetasi 1-guruh ish haqi xarajat moddasini rejalashtirishda …. asos hisoblanadi 
++Shtatlar jadvali
+-O`tgan yilda xaqiqatda amalga oshirilgan ish haqi fondi
+-Tabel 
+-Razryadlar
+
+? Budjet tashkilotlarida asosiy vositalarga eskirish hisoblanganda qanday buxgalteriya yozuvi beriladi?
++Dt 231 Kt 020-029
+-Dt 250 Kt 020-029
+-Dt 010-019 Kt 020
+-Dt 252 Kt 020-029
+
+? Budjet tashkilotlari tovar moddiy qiymatliklari mavsumiy zaxiralari normasini aniqlash tartibi qaysi me’yoriy xujjatda keltirilgan?
++O’zR AV dan 2002 yil 14 martda № 1111 son bilan ro’yxatdan o’tgan
+-O’zR AV dan 2001 yil 10 aprelda № 1025 son bilan ro’yxatdan o’tgan yo’riqnoma
+-O’zR AV dan 2001 yil 12 aprelda № 1025 son bilan ro’yxatdan o’tgan
+-O’zR AV dan 2001 yil 12 aprelda № 165 son bilan ro’yxatdan o’tgan yo’riqnoma
+
+? Budjet tashkilotlari xarajatlar smetasi 1-guruh ish haqi xarajat moddasini rejalashtirishda …. asos hisoblanadi 
++Shtatlar jadvali
+-O`tgan yilda xaqiqatda amalga oshirilgan ish haqi fondi
+-Tabel 
+-Razryadlar

@@ -1,0 +1,302 @@
+?. Tashkilotlarda  realizatsiya qilishdan olingan tushumlar qaysi moliyaviy hisobotlarda aks ettiriladi?
++. Moliyaviy natijalar to‘g‘risidagi hisobotda 
+-. Buxgalteriya balansida
+-.Pul oqimlari to‘g ‘risidagi hisobotda
+-. Barcha hisobotlarda.
+
+? Tashkilotlarning moliyaviy natijalar  to’g’risidagi hisoboti  nima maqsadda tuziladi?
++. Korxonalarning daromadlar va xarajatlar hisobini yuritish orqali moliya yilida olingan foyda va  sof  foydani aniqlash maqsadida 
+-. Pul oqimlarining  hisobini yoritish maqsadida
+-. Korxonaning buxgalteriya balansini tuzish maqsadida
+-. Barcha hisobotlarni yuritish maqsadida.
+
+? Daromadlar  va harajatlarning tarkibi qaysi moliyaviy hisobotda aks ettiriladi?
++. Moliyaviy natijalar to‘g‘risidagi hisobotda 
+-. Barcha hisobotlarda.
+-. Pul oqimlari to‘g ‘risidagi hisobotda
+-. Buxgalteriya balansida
+
+? Tashkilotlarning tannarx  harajatlari qaysi moliyaviy hisobotda aks ettiriladi?
++. Moliyaviy natijalar to‘g‘risidagi hisobotda 
+-.Pul oqimlari to‘g ‘risidagi hisobotda
+-. Buxgalteriya balansida
+-. Barcha hisobotlarda.
+
+? Buxgalteriya balansining  tarkibi qaysi javobda  ifodalangan?
++. Buxgalteriya balansining tarkibi  korxonaning o‘z mablag‘lari va ularni kelib chiqish manbalari  ifodalangan aktiv va passiv qismdan iborat bo’ladi.
+-. Buxgalteriya balansining tarkibi  daromadlar, harajatlar va foydadan iborat.
+-. Buxgalteriya balansining tarkibi  moliyaviy natijalarning tarkibidan iborat bo’ladi.
+-. Buxgalteriya balansining tarkibi   barcha moliyaviy hisobotlar bo’yicha pul oqimlari jamlanadi.
+
+? Moliyaviy hisobotlar – 
++. xo‘jalik yurituvchi subyektning ma’lum bir davrdagi faoliyatini tavsiflovchi moliyaviy axborotni taqdim etish usulidir.
+-. korxona va tashkilotlarning faoliyati haqida ma’lumotlarni taqdim etish usulidir.
+-. xo‘jalik yurituvchi subyektning yil yakunlari bo’yicha  daromadlari va harajatlari axborotini taqdim etish usulidir.
+-. korxona va tashkilotlarning faoliyati bo’yicha moliyaviy natijani va sof foydani aniqlashga oid  ma’lumotlarni taqdim etish usulidir.
+
+? Moliyaviy hisobotlar maqsadi –
++. -iqtisodiy qarorlar qabul qilish uchun keng foydalanuvchilar doirasiga zarur bo‘lgan xo‘jalik yurituvchi subyektning moliyaviy holati, uning faoliyati ko‘rsatkichlari to‘g‘risida va pul mablag‘larining harakati haqida axborotni taqdim etish hisoblanadi. 
+-. Moliyaviy hisobotlar xo‘jalik yurituvchi subyektning rahbariyati tomonidan amalga oshiriladigan tadbirkorlik resurslarni boshqarishni ko‘rsatishdir.
+-. Tijoratga oid  qarorlar qabul qilish uchun rahbariyatga zarur bo‘lgan xo‘jalik yurituvchi subyektning moliyaviy holati, uning faoliyati ko‘rsatkichlari to‘g‘risida va pul mablag‘larining harakati haqida axborotni taqdim etish hisoblanadi. 
+-. Tashqi iqtisodiy faoliyat uchun korxona xodimlariga va nazorat organlarga zarur bo‘lgan xo‘jalik yurituvchi subyektning moliyaviy holati va pul mablag‘larining harakati haqida axborotni taqdim etish hisoblanadi. 
+
+? Moliyaviy hisobotlar  tarkibi:
++.  Buxgalteriya balansi — 1-shakl, Moliyaviy natijalar to‘g‘risidagi hisobot — 2-shakl,  Pul oqimlari haqidagi hisobot — 4-shakl, Xususiy kapital to‘g‘risidagi hisobot — 5-shakl,  Izohlar, hisob-kitoblar va tushuntirishlar.
+-. Buxgalteriya balansi — 1-shakl, Moliyaviy natijalar to‘g‘risidagi hisobot — 2-shakl,  Pul oqimlari haqidagi hisobot — 4-shakl, Xususiy kapital to‘g‘risidagi hisobot — 5-shakl.
+-. Izohlar, hisob-kitoblar va tushuntirishlar, Buxgalteriya aktivlari hisoboti, Moliyaviy natijalar to‘g‘risidagi hisobot ,  Pul oqimlari haqidagi hisobot, Xususiy kapital to‘g‘risidagi hisobot .
+-. Moliyaviy natijalar to‘g‘risidagi hisobot -1-shakl,  Buxgalteriya balansi - 2-shakl,  Pul oqimlari haqidagi hisobot — 3-shakl, Xususiy kapital to‘g‘risidagi hisobot — 4-shakl.
+
+? Moliyaviy hisobotlar va ularning  tarkibi qaysi qonunda belgilangan?
++. O‘zbekiston Respublikasining “Buxgalteriya hisobi to‘g‘risida”gi qonunida 
+-. Moliyaviy hisobotning halqaro standartida 
+S). O‘zbekiston Respublikasining Buxgalteriya hisobi milliy sandartlarida.
+-. O‘zbekiston Respublikasining Soliq kodeksida
+
+? Moliyaviy hisobotlarni  kontseptual asosi qanday tushunchalarni belgilab beradi?
++.  O‘zbekiston Respublikasining «Buxgalteriya hisobi to‘g‘risida»gi Qonuni asosida ishlab chiqilgan va foydalanuvchilar uchun moliyaviy hisobotni tayyorlash va taqdim etish asosini tashkil etuvchi tushunchalarni belgilab beradi.
+-. «Moliyaviy hisobotning halqaro standartlari to‘g‘risida»gi Qonuni asosida halqaro  moliyaviy hisobotlarni tayyorlash va taqdim etish tushunchalarini belgilab beradi.
+-. O‘zbekiston Respublikasining «Pul oqimlari to‘g‘risida»gi moliyaviy hisobotni tayyorlash va taqdim etish asosini tashkil etuvchi tushunchalarni belgilab beradi.
+-. O‘zbekiston Respublikasining «Soliq Kodeksi» asosida moliyaviy hisobot va soliq hisobotlarini tayyorlash va taqdim etish tartiblarini belgilab beradi.
+
+? Buxgaltriy balansi qanday maqsadda tuziladi?
++ Korxonaning moliyaviy holatini ko'rsatish  
+- Foyda va zararni hisoblash  
+- Naqd pul oqimini ko'rsatish  
+- Investitsiya strategiyasini belgilash  
+
+? Buxgalteriya balansi halqaro standartlar bo‘yicha qanday  uchta  asosiy bo'limdan iborat?
++ Aktivlar, Passivlar, Kapital  
+- Aktivlar, Passivlar, Daromad  
+- Daromad, Xarajatlar, Sof foyda  
+- Naqd pul, Qaytish, Investitsiya  
+
+? Moliyaviy hisobotda uzoq muddatli aktivlarga nimalar kiritiladi?
++ Korxonaning asosiy vositalar va  nomoddiy aktivlar  
+- Korxonaning egasi tomonidan kiritilgan kapital  
+- Korxonaning qarzlari
+- Faqat naqd pul va bank hisobidagi mablag'lar 
+
+? Buxgalteriya balansining tenglik formulasi qanday ifodalanadi?
++ Aktiv = Majburiyat + Kapital  
+- Aktiv + Passiv = Kapital  
+- Aktiv + Kapital = Passiv   
+- Passiv = Aktiv - Kapital  
+
+? Buxgalteriya balansida "kapital" tarkibida nimalar kiritiladi?
++  Ta‘sischi tomonidan kiritilgan mablag' va korxonada to'plangan foyda summasi   
+- Korxonaning hisobraqamidagi pul mablag’lari  
+- Foizlarni to'lash uchun zarur bo'lgan jamg‘arilgan mablag'    
+- Kreditorli qarzdorliklar  summasi  
+
+? Buxgalteriya balansi nima maqsadda tuziladi?
++ Korxonalarning moliyaviy holatni baholash maqsadida  
+- Kompaniya daromadlarini ko'rsatish  maqsadida  
+- Xarajatlarni tahlil qilish maqsadida    
+- Xodimlar ish haqini hisoblash  maqsadida  
+? Buxgalteriya balansida  qaysi qisimlar mavjud?
++ Aktivlar va passivlar    
+- Foyda va zarar  
+- Kassa va bank  
+- Daromadlar  va xarajatlar
+
+? Buxgalteriya balansida aktivlar qanday bo‘limlarga bo'linadi?
++ Uzoq muddatli  va joriy  aktivlarga 
+- Doimiy va vaqtinchalik  aktivlarga
+- O'zgaruvchan va o'zgarmas  aktivlarga
+- Sarmoya va likvid  aktivlarga
+
+ ? Qaysi aktiv turi korxonaning joriy faoliyatida tezda naqd pulga aylantirilishi mumkin?
++ Joriy  aktivlar  
+- Uzoq muddatli aktivlar  
+- Doimiy aktivlar  
+- Tovar inventarizatsiyasi  
+
+? Buxgalteriya balansining  passivida qanday bo‘limlar mavjud?
++ Majburiyatlar va xususiy kapital   
+- Muvozanatli kapital  
+- Qisqa muddatli qarzlar  
+- Moliya qarzlari  
+
+? Buxgalteriya balansida "xususiy kapital" nima uchun muhim?
++ Kompaniyaning moliyaviy mustaqilligini baholash uchun   
+- Faqat xarajatlarni ko'rsatish uchun   
+- Mijozlarning qarzdorligini ko'rsatish uchun   
+- Amortizatsiya hisoblash  uchun   
+
+? Moliyaviy natija nima va qaysi moliyaviy hisobotda aks etadi?
++ Daromadlar va xarajatlar orasidagi farq bo’lib, Moliyaviy natijalar  to‘g’risidagi hisobotda aks etadi 
+- Korxona mahsulotlarini qiymati,  Moliyaviy natijalar hisobotida
+- Xodimlar soni bo’lib,  Moliyaviy natijalar  to‘g’risidagi hisobotda aks etadi
+ - Raqobatchilar tahlili  bo’lib, xususiy kapital hisobotida.
+
+  ? Moliyaviy natijani hisoblashda qaysi ko'rsatkichlar muhim?
+ + Daromadlar va xarajatlar 
+ - Faqat daromadlar va qarzdorliklar
+ - Faqat xarajatlar va foyda
+ - Faqat aktivlar  va majburiyatlar
+
+? Qanday hollarda moliyaviy natija ijobiy bo'ladi?
+  + Daromadlar  xarajatlardan yuqori bo'lganda
+ - Xarajat daromaddan yuqori bo'lganda
+ - Daromad va harajat qiymatli  ijobiy bo'lganda
+  - Faoliyat to'xtatilganda  va foyda to’langanda
+
+? Moliyaviy natijani yaxshilash uchun qanday strategiyalar qo'llanilishi mumkin?
+ + Daromadni ko ‘paytirish va xarajatni kamaytirish 
+ - Daromadlarni oshirish 
+ - Xarajatlarni kamaytirish
+ - Korxona qarzdorliklarini tugatish va foyda olish   
+
+ ? Moliyaviy natijaning pasayishi qanday oqibatlarga olib kelishi mumkin?
+ + Moliyaviy muammolar va likvidlik muammolariga  
+  - Kompaniya faoliyatining kengayishiga
+  - Sarmoyalar ko'payishiga
+  - Xodimlarning rag’batlantirilishiga  
+
+ ? Moliyaviy natijadorlik  haqida xulosa chiqarishda qaysi hisobotlardan foydalaniladi?
+   + Barcha moliyaviy hisobotlardan   
+   - Daromad va zarar hisoboti
+   - Pul oqimlari to‘g‘sidagi hisoboti
+   - Buxgalteriya balans hisoboti
+
+? Korxona moliya holatini yaxshilash uchun qanda strategiyani  amalga oshirishi kerak?
+    + Xarajatlarni minimallashtirish va daromadlarni maksimallashtirish 
+    B ) Investitsiyalar olib borish  va soliqlarni to’lash
+    C ) Mijozlardan uzoqlashish 
+    D ) Yangi xodimlarni yollash va ish haqini oshirish
+
+? Qaysi moliyaviy ko'rsatkich moliyaviy natijaga ijobiy  ta'sir qiladi?
+   + Daromad  summasi  
+   - Soliq to’lovlari summasi  
+   - Mijozlar soni  
+   - Xarajatlarni o‘sish  summasi
+
+? Moliyaviy natijaning ijobiy bo'lishi nima anglatadi?
+   + Korxona foyda bilan yakunlanganligini   
+   - Korxona zarar ko'rganligini  
+   S) Moliyaviy resurslar kamayganligini   
+   - Xarajatlar daromadlardan yuqori bo’lganligini 
+
+
+? Pul oqimlari to‘g‘risidagi hisobot qanday maqsadlarni ko‘zda tutadi?
+   + Barcha javoblar to‘g‘ri 
+   - Moliyaviy holatni baholash
+   - Xarajatlarni kamaytirish
+   - Faoliyatda foyda olish
+
+? Pul oqimlari hisobotida qaysi asosiy bo'limlar mavjud?
+   + Operatsion, investitsion va moliyaviy  faoliyatlari
+   - Foydalar, zararlar va xarajatlar
+   - Aktivlar, passivlar va kapital
+   - Daromad va xarajat
+
+? Operatsion faoliyatning sof pul kirim chiqimi qaysi faoliyatlarga tegishli?
+   + Operatsion faoliyatga 
+   - Uzoq muddatli investitsiyalar faoliyatiga
+   - Qarz olish va berish faoliyatiga
+   - Moliyaviy aktivlarni sotib olish faoliyatiga
+
+? Investitsion pul oqimlariga nimalar kiradi?
+  + Uzoq muddatli aktivlarni sotib olish yoki sotish 
+   - Qarz berish va olgan pul
+    - O'zaro hisob-kitob operatsiyalari 
+    - Xalqaro ijtimoiy munosabatlari
+
+? Pul oqimlari hisobotining asosiy foydalanuvchilari kimlar?
+   + Yuqoridagi barcha javoblar to‘g‘ri 
+   - Rahbarlik va boshqaruv jamoasi
+   - Davlat nazorat organlari 
+   - Investorlar va kreditorlar
+
+? Moliyaviy  faoliyatidan kelib chiqadigan pul oqimlariga nimalar kiradi?
+    + Yuqoridagilarning barchasi 
+    - Qarz olingan mablag‘lar 
+    - Dividend to‘lovlari
+    - Aktsiya chiqarilishi
+
+? Pul oqimlari nima?  
+   + Moliyaviy resurslarning kirishi va chiqishi  
+   - Faqat naqd pul harakatlari  
+   - Faqat kreditlar va qarzlar  
+   - Davlat byudjetidagi o'zgarishlar  
+
+? Qaysi pul oqimi operatsiyalari moliyaviy hisobotda aks ettiriladi?  
+   + Barchasi to‘g‘ri
+   - Operatsion pul oqimlari  
+   - Moliyaviy pul oqimlari  
+   - Investitsiya oqimlari  
+
+? Quyidagi qaysi holatda pul oqimi ijobiy deb hisoblanadi?  
+   + Kiruvchi pul oqimi  chiquvchi pul oqimidan ko'p bo'lsa  
+   - Kiruvchi pul chiqishidan kam bo'lsa  
+   - Kiruvchi va chiquvchi pul teng  ijobiy bo'lsa  
+   - Hech qanday holatda emas  
+
+? Savol: Pul oqimlarini boshqarishning asosiy maqsadi nima?  
+   + Moliyaviy barqarorlikni saqlash   
+   - Qarzdorlikni kamaytirish  
+   - Sarmoyalarni oshirish  
+   - Soliq to'lovlarini kamaytirish  
+
+? Kompaniyaning operatsion faoliyatidan kelib chiqqan pul oqimlari qaysi moliyaviy hisobotda aks ettiriladi?   
+   +  Pul oqimlari hisobotida   
+   - Daromad va xarajatlar hisobotida   
+   - Buxgalteriya balansi hisobotida   
+   - Investitsiya hisobotida   
+
+? Xususiy kapital nima?
+   + Tashkilotning o'z mablag'lari 
+   - Tashkilotning aktsiyalaridan olinadigan foydasi
+   - Tashkilotning mulk va aktivlari
+   - Tashkilotning qarzlari
+
+? Xususiy kapitalni oshirish uchun qanday tadbirlar qo'llaniladi?
+   + Yangi aktsiyalar chiqarish 
+   - Qarz olish
+   - Moliyaviy yordam olish
+   - Faqat xarajatlarni kamaytirish
+
+?  Xususiy kapitaldan foydalanishning asosiy afzalliklari nimalardan namoyon bo‘ladi?
+   + Yuqoridagi barcha javoblar to'g'ri. 
+   - Daromadning  o'sishida 
+   - Yangi investitsiyalar jalb qilish imkoniyatida 
+   - Qarz bilan bog‘liq to‘lovlarning yo‘qligida
+
+? Xususiy kapital qanday holatda kamayishi mumkin?
+   + Zarar ko'rilganda yoki foyda bo'lmaganda 
+   - Aktivlarning qiymati oshganda
+   - Yangi investorlarni jalb qilganda 
+   - Hisob raqamda pul mablag ‘lari bo‘lmaganda 
+
+? Xususiy kapitalning yuqori darajasi nimani anglatadi?
+    + Kompaniyaning  moliya barqarorligini ko‘rsatadi
+    - Kompaniya zarar ko'rganligini anglatadi
+    - Kompaniya faqat qarz bilan ishlaganligini ko’rsatadi
+    - Kompaniya likvidlik muammolariga duch kelganligini anglatadi.
+
+? Qanday qilib xususiy kapitalni baholash mumkin?
+    * + Aktivlar va majburiyatlarning farqini hisoblash orqali  
+     B ) Faqat daromad ma’lumotlariga asoslanib  
+     C ) Bozor narxlarini kuzatish orqali  
+     D ) Faqat mablag’larning kirimiga asoslanib  
+
+? Moliyaviy natija qanday qilib investitsiya qarorlariga ta'sir qiladi?
+    + Faqat ijobiy natijalar investitsiyalarni jalb qiladi   
+    - Har qanday moliyaviy natija investorlarni qiziqtiradi    
+    - ) Manfiy moliya ko'rsatkichlari investitsiya kirishini kamaytiradi    
+    - ) Investitsiyalar faqat yuqori rentabellik bilan bog'liq   
+
+? Buxgalteriya balansda aktivlar qanday turlarga bo'linadi?
++ Uzoq muddatli  va joriy aktivlarga 
+- Doimiy va vaqtinchalik  aktivlar
+- O'zgaruvchan va o'zgarmas  aktivlarga
+- Sarmoya va likvidli aktivlarga  
+
+ ? Qaysi aktiv turi kompaniyaning joriy faoliyatida tezda naqd pulga aylaniishi mumkin?
++ Joriy  aktivlar  
+- Uzoq muddatli aktivlar  
+- Doimiy aktivlar  
+- Tovar inventarizatsiyasi  
+
+
+
